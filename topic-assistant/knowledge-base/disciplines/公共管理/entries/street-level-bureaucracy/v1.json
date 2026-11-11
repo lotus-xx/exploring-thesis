@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "street-level-bureaucracy",
+  "version": 1,
+  "name_zh": "街头官僚",
+  "name_en": "英文正式名称未在旧卡单列（street-level-bureaucracy）",
+  "aliases": [
+    "street-level-bureaucracy"
+  ],
+  "kind": "theory",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "一线公共服务人员在资源限制、模糊目标和裁量空间中，把政策转化为实际服务。",
+  "analysis_level": "分析单位：一线岗位与服务对象的互动。核心概念：裁量、任务负荷、资源约束、应对。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定窗口、社工或执法等具体岗位；中国情境核实裁量来源和组织约束。",
+  "applicable": "限定窗口、社工或执法等具体岗位；中国情境核实裁量来源和组织约束。",
+  "public_management_conditions": "限定窗口、社工或执法等具体岗位；中国情境核实裁量来源和组织约束。",
+  "inapplicable": "不能把任何公务员都归为街头官僚；自动化可能迁移裁量，需查实际操作者。",
+  "competing_explanations": "不能把任何公务员都归为街头官僚；自动化可能迁移裁量，需查实际操作者。",
+  "author_claims": "一线公共服务人员在资源限制、模糊目标和裁量空间中，把政策转化为实际服务。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定窗口、社工或执法等具体岗位；中国情境核实裁量来源和组织约束。\n- 待检验机制：任务负荷及规则模糊→应对方式和裁量→服务分配。\n- 可观察材料与方法：办理过程、例外处理、个案材料与访谈；重视人员和服务对象双方经验。\n- 决策落点：调整具体工作量、例外审批或支持安排，检查可及性与一致性。\n- 边界与竞争解释：不能把任何公务员都归为街头官僚；自动化可能迁移裁量，需查实际操作者。",
+  "sources": [
+    {
+      "title": "Michael Lipsky（2010增订版，初版1980）Street-Level Bureaucracy",
+      "url": "https://www.russellsage.org/publications/book/street-level-bureaucracy",
+      "access_level": "metadata",
+      "read_locator": "原出版社详细书介。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "metadata-only",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/street-level-bureaucracy.md",
+  "legacy_sha256": "d4fc7ed71791d0c8a6274fc01884cc95b711a8796618a404fd78f30bf7a03cec",
+  "legacy_markdown": "---\ntheory_id: street-level-bureaucracy\nname: 街头官僚\nkind: theory\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 街头官僚\n\n模块：执行人员与服务体验。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Michael Lipsky（2010增订版，初版1980）Street-Level Bureaucracy](https://www.russellsage.org/publications/book/street-level-bureaucracy)。读取范围：原出版社详细书介。\n\n## 基础命题\n\n一线公共服务人员在资源限制、模糊目标和裁量空间中，把政策转化为实际服务。\n\n## 概念与分析层级\n\n分析单位：一线岗位与服务对象的互动。核心概念：裁量、任务负荷、资源约束、应对。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定窗口、社工或执法等具体岗位；中国情境核实裁量来源和组织约束。\n- 待检验机制：任务负荷及规则模糊→应对方式和裁量→服务分配。\n- 可观察材料与方法：办理过程、例外处理、个案材料与访谈；重视人员和服务对象双方经验。\n- 决策落点：调整具体工作量、例外审批或支持安排，检查可及性与一致性。\n- 边界与竞争解释：不能把任何公务员都归为街头官僚；自动化可能迁移裁量，需查实际操作者。\n"
+}

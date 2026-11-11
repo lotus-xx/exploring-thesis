@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "advocacy-coalition",
+  "version": 1,
+  "name_zh": "倡议联盟",
+  "name_en": "英文正式名称未在旧卡单列（advocacy-coalition）",
+  "aliases": [
+    "advocacy-coalition"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "关注政策子系统中的信念、行动者协调与政策变化，跨制度应用须调整假设。",
+  "analysis_level": "分析单位：政策子系统内协调的行动者群体。核心概念：信念、联盟、资源、政策学习。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "有可识别争议和持续互动的政策领域；中国研究不能仅按机构类别划联盟。",
+  "applicable": "有可识别争议和持续互动的政策领域；中国研究不能仅按机构类别划联盟。",
+  "public_management_conditions": "有可识别争议和持续互动的政策领域；中国研究不能仅按机构类别划联盟。",
+  "inapplicable": "一次会议不足证明联盟；正式层级权威和利益交易可能比信念更有解释力。",
+  "competing_explanations": "一次会议不足证明联盟；正式层级权威和利益交易可能比信念更有解释力。",
+  "author_claims": "关注政策子系统中的信念、行动者协调与政策变化，跨制度应用须调整假设。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：有可识别争议和持续互动的政策领域；中国研究不能仅按机构类别划联盟。\n- 待检验机制：共享信念与协调资源→竞争、学习或冲击应对→政策调整。\n- 可观察材料与方法：长期政策文本、协同行动与访谈，区分表达相似和实际协调。\n- 决策落点：识别需补充的协商信息或参与渠道，评估改变的可接受性。\n- 边界与竞争解释：一次会议不足证明联盟；正式层级权威和利益交易可能比信念更有解释力。",
+  "sources": [
+    {
+      "title": "Weible、Jenkins-Smith（2025）Advocacy Coalition Framework—Advancing Scholarship in the Textbook and Beyond",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-85554-2_13",
+      "access_level": "partial",
+      "read_locator": "框架作者章节，摘要及对制度情境的讨论。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/advocacy-coalition.md",
+  "legacy_sha256": "a098ca56413d68eb22ee7be2e2ffb4a48912106d0e65443eadf59e8869307271",
+  "legacy_markdown": "---\ntheory_id: advocacy-coalition\nname: 倡议联盟\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 倡议联盟\n\n模块：政策议程与变迁。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Weible、Jenkins-Smith（2025）Advocacy Coalition Framework—Advancing Scholarship in the Textbook and Beyond](https://link.springer.com/chapter/10.1007/978-3-031-85554-2_13)。读取范围：框架作者章节，摘要及对制度情境的讨论。\n\n## 基础命题\n\n关注政策子系统中的信念、行动者协调与政策变化，跨制度应用须调整假设。\n\n## 概念与分析层级\n\n分析单位：政策子系统内协调的行动者群体。核心概念：信念、联盟、资源、政策学习。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：有可识别争议和持续互动的政策领域；中国研究不能仅按机构类别划联盟。\n- 待检验机制：共享信念与协调资源→竞争、学习或冲击应对→政策调整。\n- 可观察材料与方法：长期政策文本、协同行动与访谈，区分表达相似和实际协调。\n- 决策落点：识别需补充的协商信息或参与渠道，评估改变的可接受性。\n- 边界与竞争解释：一次会议不足证明联盟；正式层级权威和利益交易可能比信念更有解释力。\n"
+}

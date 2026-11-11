@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "narrative-policy",
+  "version": 1,
+  "name_zh": "叙事政策框架",
+  "name_en": "英文正式名称未在旧卡单列（narrative-policy）",
+  "aliases": [
+    "narrative-policy"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "政策叙事的结构和内容可以被系统研究，并与政策争议和策略联系。",
+  "analysis_level": "分析单位：特定政策争议中的叙事及其使用者。核心概念：角色、情节、因果故事、政策主张。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定一个争议问题、行动者群体和材料时段；不能只统计积极消极词。",
+  "applicable": "限定一个争议问题、行动者群体和材料时段；不能只统计积极消极词。",
+  "public_management_conditions": "限定一个争议问题、行动者群体和材料时段；不能只统计积极消极词。",
+  "inapplicable": "研究者不得代造受访者故事；传播频次不能替代说服效果，需考虑利益与既有立场。",
+  "competing_explanations": "研究者不得代造受访者故事；传播频次不能替代说服效果，需考虑利益与既有立场。",
+  "author_claims": "政策叙事的结构和内容可以被系统研究，并与政策争议和策略联系。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一个争议问题、行动者群体和材料时段；不能只统计积极消极词。\n- 待检验机制：问题角色与因果故事→责任和方案理解→支持或参与。\n- 可观察材料与方法：政策文本、媒体或公开意见中编码叙事要素；双人/复核编码或受控信息设计需真实可行。\n- 决策落点：判断具体政策说明如何减少误解，并保留不同群体的合理关切。\n- 边界与竞争解释：研究者不得代造受访者故事；传播频次不能替代说服效果，需考虑利益与既有立场。",
+  "sources": [
+    {
+      "title": "Jones、McBeth（2010）A Narrative Policy Framework: Clear Enough to Be Wrong?",
+      "url": "https://liberalarts.oregonstate.edu/sites/liberalarts.oregonstate.edu/files/economics/jones31oct2013a.pdf",
+      "access_level": "partial",
+      "read_locator": "作者所在高校原论文，摘要与框架部分。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/narrative-policy.md",
+  "legacy_sha256": "cdcaabb62cfe3c588f2637e8c7ae880fb68655701cc8edc06e221d72d0a60bc5",
+  "legacy_markdown": "---\ntheory_id: narrative-policy\nname: 叙事政策框架\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 叙事政策框架\n\n模块：政策工具与学习。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Jones、McBeth（2010）A Narrative Policy Framework: Clear Enough to Be Wrong?](https://liberalarts.oregonstate.edu/sites/liberalarts.oregonstate.edu/files/economics/jones31oct2013a.pdf)。读取范围：作者所在高校原论文，摘要与框架部分。\n\n## 基础命题\n\n政策叙事的结构和内容可以被系统研究，并与政策争议和策略联系。\n\n## 概念与分析层级\n\n分析单位：特定政策争议中的叙事及其使用者。核心概念：角色、情节、因果故事、政策主张。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一个争议问题、行动者群体和材料时段；不能只统计积极消极词。\n- 待检验机制：问题角色与因果故事→责任和方案理解→支持或参与。\n- 可观察材料与方法：政策文本、媒体或公开意见中编码叙事要素；双人/复核编码或受控信息设计需真实可行。\n- 决策落点：判断具体政策说明如何减少误解，并保留不同群体的合理关切。\n- 边界与竞争解释：研究者不得代造受访者故事；传播频次不能替代说服效果，需考虑利益与既有立场。\n"
+}

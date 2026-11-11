@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "adaptive-governance",
+  "version": 1,
+  "name_zh": "适应性治理",
+  "name_en": "英文正式名称未在旧卡单列（adaptive-governance）",
+  "aliases": [
+    "adaptive-governance"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "多层次联系、学习与桥接组织可支持社会生态系统在变化中的调整。",
+  "analysis_level": "分析单位：资源治理系统的调整过程。核心概念：反馈、学习、桥接组织、适应。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "适用于环境或资源治理的不确定变化；其他公共领域迁移需明确为何可类比。",
+  "applicable": "适用于环境或资源治理的不确定变化；其他公共领域迁移需明确为何可类比。",
+  "public_management_conditions": "适用于环境或资源治理的不确定变化；其他公共领域迁移需明确为何可类比。",
+  "inapplicable": "频繁变动不等于适应；要防止职责不稳定、试错成本转嫁与反馈选择性。",
+  "competing_explanations": "频繁变动不等于适应；要防止职责不稳定、试错成本转嫁与反馈选择性。",
+  "author_claims": "多层次联系、学习与桥接组织可支持社会生态系统在变化中的调整。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：适用于环境或资源治理的不确定变化；其他公共领域迁移需明确为何可类比。\n- 待检验机制：监测反馈与跨界学习→规则更新→适应结果。\n- 可观察材料与方法：规则修订、监测、协作网络和调整记录；追踪实际学习而非只看培训次数。\n- 决策落点：设计一个可修订规则或反馈周期，明确谁依据何种信号作决定。\n- 边界与竞争解释：频繁变动不等于适应；要防止职责不稳定、试错成本转嫁与反馈选择性。",
+  "sources": [
+    {
+      "title": "Folke、Hahn、Olsson、Norberg（2005）Adaptive Governance of Social-Ecological Systems",
+      "url": "https://www.annualreviews.org/content/journals/10.1146/annurev.energy.30.050504.144511",
+      "access_level": "abstract",
+      "read_locator": "原刊摘要。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/adaptive-governance.md",
+  "legacy_sha256": "2bef9a2ae8653fff523079e58d3c2a981beeebab81b221056ee32a91f260dd1e",
+  "legacy_markdown": "---\ntheory_id: adaptive-governance\nname: 适应性治理\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 适应性治理\n\n模块：风险、应急与韧性。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Folke、Hahn、Olsson、Norberg（2005）Adaptive Governance of Social-Ecological Systems](https://www.annualreviews.org/content/journals/10.1146/annurev.energy.30.050504.144511)。读取范围：原刊摘要。\n\n## 基础命题\n\n多层次联系、学习与桥接组织可支持社会生态系统在变化中的调整。\n\n## 概念与分析层级\n\n分析单位：资源治理系统的调整过程。核心概念：反馈、学习、桥接组织、适应。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：适用于环境或资源治理的不确定变化；其他公共领域迁移需明确为何可类比。\n- 待检验机制：监测反馈与跨界学习→规则更新→适应结果。\n- 可观察材料与方法：规则修订、监测、协作网络和调整记录；追踪实际学习而非只看培训次数。\n- 决策落点：设计一个可修订规则或反馈周期，明确谁依据何种信号作决定。\n- 边界与竞争解释：频繁变动不等于适应；要防止职责不稳定、试错成本转嫁与反馈选择性。\n"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "policy-diffusion",
+  "version": 1,
+  "name_zh": "政策扩散",
+  "name_en": "英文正式名称未在旧卡单列（policy-diffusion）",
+  "aliases": [
+    "policy-diffusion"
+  ],
+  "kind": "family",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "学习、竞争、强制和社会建构是解释政策传播的不同机制，不能互相混称。",
+  "analysis_level": "分析单位：地区或组织之间的政策采纳事件。核心概念：学习、竞争、强制、社会建构。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定一项政策在若干明确地区的采纳；中国情境区分上级命令与横向学习。",
+  "applicable": "限定一项政策在若干明确地区的采纳；中国情境区分上级命令与横向学习。",
+  "public_management_conditions": "限定一项政策在若干明确地区的采纳；中国情境区分上级命令与横向学习。",
+  "inapplicable": "时间相近不等于扩散；排查共同上级政策、同一危机与口径变化。",
+  "competing_explanations": "时间相近不等于扩散；排查共同上级政策、同一危机与口径变化。",
+  "author_claims": "学习、竞争、强制和社会建构是解释政策传播的不同机制，不能互相混称。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一项政策在若干明确地区的采纳；中国情境区分上级命令与横向学习。\n- 待检验机制：地区联系或制度压力→对方案的评价和选择→采纳。\n- 可观察材料与方法：采纳时间、相邻关系、学习交流、考核要求；事件过程或有条件的扩散分析。\n- 决策落点：判断推广需要能力支持、证据交流还是强制要求调整。\n- 边界与竞争解释：时间相近不等于扩散；排查共同上级政策、同一危机与口径变化。",
+  "sources": [
+    {
+      "title": "Dobbin、Simmons、Garrett（2007）The Global Diffusion of Public Policies",
+      "url": "https://scholar.harvard.edu/files/dobbin/files/2007_ars_dobbin_simmons.pdf",
+      "access_level": "abstract",
+      "read_locator": "作者机构原论文，摘要与机制分类。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/policy-diffusion.md",
+  "legacy_sha256": "ffb639225cb7dd71b8853cfbd5d0c6acb4c8fb32d457312a5a75f58d27af96b5",
+  "legacy_markdown": "---\ntheory_id: policy-diffusion\nname: 政策扩散\nkind: family\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 政策扩散\n\n模块：政策工具与学习。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Dobbin、Simmons、Garrett（2007）The Global Diffusion of Public Policies](https://scholar.harvard.edu/files/dobbin/files/2007_ars_dobbin_simmons.pdf)。读取范围：作者机构原论文，摘要与机制分类。\n\n## 基础命题\n\n学习、竞争、强制和社会建构是解释政策传播的不同机制，不能互相混称。\n\n## 概念与分析层级\n\n分析单位：地区或组织之间的政策采纳事件。核心概念：学习、竞争、强制、社会建构。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一项政策在若干明确地区的采纳；中国情境区分上级命令与横向学习。\n- 待检验机制：地区联系或制度压力→对方案的评价和选择→采纳。\n- 可观察材料与方法：采纳时间、相邻关系、学习交流、考核要求；事件过程或有条件的扩散分析。\n- 决策落点：判断推广需要能力支持、证据交流还是强制要求调整。\n- 边界与竞争解释：时间相近不等于扩散；排查共同上级政策、同一危机与口径变化。\n"
+}

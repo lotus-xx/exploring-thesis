@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "generation": 19,
+  "entries": {
+    "accountability": {
+      "path": "disciplines/公共管理/entries/accountability/v1.json",
+      "version": 1,
+      "sha256": "d59cbe0607a6ceeff90333ff6f6667b6689098c6d2c50748bf73ddeccf9a9af9"
+    },
+    "adaptive-governance": {
+      "path": "disciplines/公共管理/entries/adaptive-governance/v1.json",
+      "version": 1,
+      "sha256": "e9b1f16eba632d941e09516408a39ba9dff6cfb9e830b04f6f22b61e605a8a4b"
+    },
+    "administrative-burden": {
+      "path": "disciplines/公共管理/entries/administrative-burden/v1.json",
+      "version": 1,
+      "sha256": "f05bfcd26bf2d0781d4d07c87df61d19002cf7780a3476bdc65cd8b6bf963d87"
+    },
+    "administrative-subcontracting": {
+      "path": "disciplines/公共管理/entries/administrative-subcontracting/v1.json",
+      "version": 1,
+      "sha256": "af57add4c42cbc6a1c164c8ca8028e96e259960fd23e62c04dedb0142d40f409"
+    },
+    "advocacy-coalition": {
+      "path": "disciplines/公共管理/entries/advocacy-coalition/v1.json",
+      "version": 1,
+      "sha256": "07f5d0d2ca75db4091ed543d16efb95859438997352543ffe7571938ca16a5c4"
+    },
+    "attention-based-view": {
+      "path": "disciplines/公共管理/entries/attention-based-view/v1.json",
+      "version": 1,
+      "sha256": "e1c571c3f3a88e9d73c42d058b567b16dffb9a684f89e851d989df895263d028"
+    },
+    "bureaucracy": {
+      "path": "disciplines/公共管理/entries/bureaucracy/v1.json",
+      "version": 1,
+      "sha256": "8af682366144c3fcf0c688b6c0a19607baf6cf27016eebec7f397fb6b4d780f3"
+    },
+    "campaign-governance": {
+      "path": "disciplines/公共管理/entries/campaign-governance/v1.json",
+      "version": 1,
+      "sha256": "981c27f3d682c9f4f807090f50cb1526c5ac1430aaa67232058d75e5ff21fde9"
+    },
+    "classified-control": {
+      "path": "disciplines/公共管理/entries/classified-control/v1.json",
+      "version": 1,
+      "sha256": "90f840c5ad1a26888904509973fe043be6c839d1b91497663830ea3d2a88df07"
+    },
+    "collaborative-governance": {
+      "path": "disciplines/公共管理/entries/collaborative-governance/v1.json",
+      "version": 1,
+      "sha256": "46ea3503c724a9dfbce460ba89f84fc9e764d948330bb4addebea198710c940f"
+    },
+    "collective-action": {
+      "path": "disciplines/公共管理/entries/collective-action/v1.json",
+      "version": 1,
+      "sha256": "baef3bf5a3b07c28f151eb0fb149353e4b29ddea605d42c9ca5e52e9469160f9"
+    },
+    "coproduction": {
+      "path": "disciplines/公共管理/entries/coproduction/v1.json",
+      "version": 1,
+      "sha256": "ab0f23a7e4b68a927df1a2cfe421bfe0e16ec7d524b74260976f5f14e0ea6c87"
+    },
+    "emergency-management-china": {
+      "path": "disciplines/公共管理/entries/emergency-management-china/v1.json",
+      "version": 1,
+      "sha256": "48cf093eec19aca258d3883f3b32a17c038426792715ef10c34751184b3d6f8b"
+    },
+    "experimentation-hierarchy": {
+      "path": "disciplines/公共管理/entries/experimentation-hierarchy/v1.json",
+      "version": 1,
+      "sha256": "dc3f6e238c9ef95e07ee5635686663f0687f2991ac8665ec649caf407fda6d55"
+    },
+    "fiscal-federalism": {
+      "path": "disciplines/公共管理/entries/fiscal-federalism/v1.json",
+      "version": 1,
+      "sha256": "c3b8119f74407aeab631e4d3c20982465b97d5ad493ea601e26eb08a0aeae894"
+    },
+    "government-control-rights": {
+      "path": "disciplines/公共管理/entries/government-control-rights/v1.json",
+      "version": 1,
+      "sha256": "0f1d1a72e35d57f26ff17b27e0b266c45dd4a1acf4fcb528da7cd1d8c4972216"
+    },
+    "high-reliability": {
+      "path": "disciplines/公共管理/entries/high-reliability/v1.json",
+      "version": 1,
+      "sha256": "faf7f1c7bf025b3a7dbbefbc89c52c5bac18a16e0318e3446d276b60525ab27b"
+    },
+    "iad": {
+      "path": "disciplines/公共管理/entries/iad/v1.json",
+      "version": 1,
+      "sha256": "c38dde906c301170ce67e5dc1172e2ade2fe58447d9620d71cb4b93cdd3dcd08"
+    }
+  },
+  "disciplines": {
+    "公共管理": {
+      "path": "disciplines/公共管理/profiles/v1.json",
+      "version": 1,
+      "sha256": "a738f06c85a39a62ede1143ad0817d19894370830824da612aa471ebbb50d74b"
+    }
+  },
+  "aliases": {
+    "公共管理": "公共管理",
+    "公共行政": "公共管理",
+    "行政管理": "公共管理",
+    "public administration": "公共管理",
+    "public management": "公共管理",
+    "mpa": "公共管理"
+  },
+  "legacy_ids": {},
+  "refresh": {},
+  "updated_at": "2026-11-11T22:41:24.623109+08:00",
+  "change_reason": "publish iad: 无损迁移 2.11.3；不代表重新核验或学科适配已获证实。"
+}

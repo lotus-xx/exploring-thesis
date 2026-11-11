@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "tiao-kuai",
+  "version": 1,
+  "name_zh": "条块关系",
+  "name_en": "英文正式名称未在旧卡单列（tiao-kuai）",
+  "aliases": [
+    "tiao-kuai"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "china",
+  "concepts_and_propositions": "纵向职能系统与属地政府的权责和资源关系构成重要组织张力。",
+  "analysis_level": "分析单位：职能条线与属地机构的协作事项。核心概念：条线、属地、权责和资源。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "聚焦某地某项跨部门事项；把条、块落实到具体机构和权限。",
+  "applicable": "聚焦某地某项跨部门事项；把条、块落实到具体机构和权限。",
+  "public_management_conditions": "聚焦某地某项跨部门事项；把条、块落实到具体机构和权限。",
+  "inapplicable": "条块是分析关系而非自动成立的因果理论；也可能是业务标准冲突或系统接口问题。",
+  "competing_explanations": "条块是分析关系而非自动成立的因果理论；也可能是业务标准冲突或系统接口问题。",
+  "author_claims": "纵向职能系统与属地政府的权责和资源关系构成重要组织张力。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：聚焦某地某项跨部门事项；把条、块落实到具体机构和权限。\n- 待检验机制：多重指令或资源依赖→协调成本与责任归属→办理结果。\n- 可观察材料与方法：三定规定、转办日志、会议决策和实际流转；过程追踪，计量需有真实可比记录。\n- 决策落点：决定牵头权、信息共享或升级争议程序中的具体调整。\n- 边界与竞争解释：条块是分析关系而非自动成立的因果理论；也可能是业务标准冲突或系统接口问题。",
+  "sources": [
+    {
+      "title": "周雪光（2014）关于中国国家治理的组织学研究",
+      "url": "https://web.stanford.edu/~xgzhou/zhou_14_xueshuyuekan_CH.pdf",
+      "access_level": "partial",
+      "read_locator": "作者原论文 PDF 的条块关系论述部分。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/tiao-kuai.md",
+  "legacy_sha256": "6cab95a4db2f4320d73bb4fdf3a657117c2d7f7fb73991da584920adf060e563",
+  "legacy_markdown": "---\ntheory_id: tiao-kuai\nname: 条块关系\nkind: framework\norigin: china\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 条块关系\n\n模块：央地关系。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[周雪光（2014）关于中国国家治理的组织学研究](https://web.stanford.edu/~xgzhou/zhou_14_xueshuyuekan_CH.pdf)。读取范围：作者原论文 PDF 的条块关系论述部分。\n\n## 基础命题\n\n纵向职能系统与属地政府的权责和资源关系构成重要组织张力。\n\n## 概念与分析层级\n\n分析单位：职能条线与属地机构的协作事项。核心概念：条线、属地、权责和资源。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：聚焦某地某项跨部门事项；把条、块落实到具体机构和权限。\n- 待检验机制：多重指令或资源依赖→协调成本与责任归属→办理结果。\n- 可观察材料与方法：三定规定、转办日志、会议决策和实际流转；过程追踪，计量需有真实可比记录。\n- 决策落点：决定牵头权、信息共享或升级争议程序中的具体调整。\n- 边界与竞争解释：条块是分析关系而非自动成立的因果理论；也可能是业务标准冲突或系统接口问题。\n"
+}

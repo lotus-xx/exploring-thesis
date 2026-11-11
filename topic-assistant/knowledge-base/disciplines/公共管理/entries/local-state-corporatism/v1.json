@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "local-state-corporatism",
+  "version": 1,
+  "name_zh": "地方国家公司主义",
+  "name_en": "英文正式名称未在旧卡单列（local-state-corporatism）",
+  "aliases": [
+    "local-state-corporatism"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "china-study",
+  "concepts_and_propositions": "用地方政府与地方经济组织的紧密利益和组织联系解释特定转型时期发展方式。",
+  "analysis_level": "分析单位：特定历史时期地方政府与经济组织。核心概念：收益联系、组织协调、政企关系。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "迁移到当代前须核实产权、财政和政企关系已如何变化。",
+  "applicable": "迁移到当代前须核实产权、财政和政企关系已如何变化。",
+  "public_management_conditions": "迁移到当代前须核实产权、财政和政企关系已如何变化。",
+  "inapplicable": "不能把任意招商活动都叫公司主义；竞争解释为市场机会、产业基础与规范监管。",
+  "competing_explanations": "不能把任意招商活动都叫公司主义；竞争解释为市场机会、产业基础与规范监管。",
+  "author_claims": "用地方政府与地方经济组织的紧密利益和组织联系解释特定转型时期发展方式。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：迁移到当代前须核实产权、财政和政企关系已如何变化。\n- 待检验机制：组织性收益联系→政府协调和资源支持→产业或公共任务表现。\n- 可观察材料与方法：政企权责、财政收益、资源配置与地方发展史；历史比较并注明时代边界。\n- 决策落点：确定应分离、透明化或协调的具体政企接口，检验公共目标是否受损。\n- 边界与竞争解释：不能把任意招商活动都叫公司主义；竞争解释为市场机会、产业基础与规范监管。",
+  "sources": [
+    {
+      "title": "Jean C. Oi（1995）The Role of the Local State in China's Transitional Economy",
+      "url": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/role-of-the-local-state-in-chinas-transitional-economy/EAC386CB45017EC3DE682B0A6D7770E8",
+      "access_level": "partial",
+      "read_locator": "原刊摘要/引入部分；线上回溯日期不作原发表年。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/local-state-corporatism.md",
+  "legacy_sha256": "dae3c3bbfece4fffba4d36996892a0685af9461c6192fb042ffa91c612513d2b",
+  "legacy_markdown": "---\ntheory_id: local-state-corporatism\nname: 地方国家公司主义\nkind: framework\norigin: china-study\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 地方国家公司主义\n\n模块：财政与资源。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Jean C. Oi（1995）The Role of the Local State in China's Transitional Economy](https://www.cambridge.org/core/journals/china-quarterly/article/abs/role-of-the-local-state-in-chinas-transitional-economy/EAC386CB45017EC3DE682B0A6D7770E8)。读取范围：原刊摘要/引入部分；线上回溯日期不作原发表年。\n\n## 基础命题\n\n用地方政府与地方经济组织的紧密利益和组织联系解释特定转型时期发展方式。\n\n## 概念与分析层级\n\n分析单位：特定历史时期地方政府与经济组织。核心概念：收益联系、组织协调、政企关系。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：迁移到当代前须核实产权、财政和政企关系已如何变化。\n- 待检验机制：组织性收益联系→政府协调和资源支持→产业或公共任务表现。\n- 可观察材料与方法：政企权责、财政收益、资源配置与地方发展史；历史比较并注明时代边界。\n- 决策落点：确定应分离、透明化或协调的具体政企接口，检验公共目标是否受损。\n- 边界与竞争解释：不能把任意招商活动都叫公司主义；竞争解释为市场机会、产业基础与规范监管。\n"
+}

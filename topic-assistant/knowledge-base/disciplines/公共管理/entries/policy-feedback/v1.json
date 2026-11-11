@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "policy-feedback",
+  "version": 1,
+  "name_zh": "政策反馈",
+  "name_en": "英文正式名称未在旧卡单列（policy-feedback）",
+  "aliases": [
+    "policy-feedback"
+  ],
+  "kind": "family",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "已有政策可以改变资源、理解和参与条件，反过来影响后续政治与政策。",
+  "analysis_level": "分析单位：政策实施与后续行动/政策形成的关系。核心概念：资源效应、解释效应、反馈。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定某项服务规则实施后的参与或组织响应；并非一般满意度调查的别称。",
+  "applicable": "限定某项服务规则实施后的参与或组织响应；并非一般满意度调查的别称。",
+  "public_management_conditions": "限定某项服务规则实施后的参与或组织响应；并非一般满意度调查的别称。",
+  "inapplicable": "区别政策造成的反馈与原有群体差异；不能据一次横截面问卷确认因果链。",
+  "competing_explanations": "区别政策造成的反馈与原有群体差异；不能据一次横截面问卷确认因果链。",
+  "author_claims": "已有政策可以改变资源、理解和参与条件，反过来影响后续政治与政策。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定某项服务规则实施后的参与或组织响应；并非一般满意度调查的别称。\n- 待检验机制：政策体验及资源分配→能力与解释变化→支持、退出或政策诉求。\n- 可观察材料与方法：规则变化、受益过程、参与记录及分群访谈；必要时追踪变化前后同一群体。\n- 决策落点：调整具体服务环节，检验是否降低排斥或改善持续参与。\n- 边界与竞争解释：区别政策造成的反馈与原有群体差异；不能据一次横截面问卷确认因果链。",
+  "sources": [
+    {
+      "title": "Daniel Béland、Andrea Louise Campbell、R. Kent Weaver（2022）Policy Feedback: How Policies Shape Politics",
+      "url": "https://www.cambridge.org/core/elements/policy-feedback/3231877106C458D0CF766173080B0409",
+      "access_level": "partial",
+      "read_locator": "原出版社可读正文的导论与反馈机制讨论。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/policy-feedback.md",
+  "legacy_sha256": "0fc9e305bb0ba39bf3b2f1150d446d78647edc5432427ac8323da5c4125244b2",
+  "legacy_markdown": "---\ntheory_id: policy-feedback\nname: 政策反馈\nkind: family\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 政策反馈\n\n模块：政策工具与学习。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Daniel Béland、Andrea Louise Campbell、R. Kent Weaver（2022）Policy Feedback: How Policies Shape Politics](https://www.cambridge.org/core/elements/policy-feedback/3231877106C458D0CF766173080B0409)。读取范围：原出版社可读正文的导论与反馈机制讨论。\n\n## 基础命题\n\n已有政策可以改变资源、理解和参与条件，反过来影响后续政治与政策。\n\n## 概念与分析层级\n\n分析单位：政策实施与后续行动/政策形成的关系。核心概念：资源效应、解释效应、反馈。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定某项服务规则实施后的参与或组织响应；并非一般满意度调查的别称。\n- 待检验机制：政策体验及资源分配→能力与解释变化→支持、退出或政策诉求。\n- 可观察材料与方法：规则变化、受益过程、参与记录及分群访谈；必要时追踪变化前后同一群体。\n- 决策落点：调整具体服务环节，检验是否降低排斥或改善持续参与。\n- 边界与竞争解释：区别政策造成的反馈与原有群体差异；不能据一次横截面问卷确认因果链。\n"
+}

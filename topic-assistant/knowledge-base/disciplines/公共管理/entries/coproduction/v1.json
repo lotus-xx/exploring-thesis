@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "coproduction",
+  "version": 1,
+  "name_zh": "公共服务共同生产",
+  "name_en": "英文正式名称未在旧卡单列（coproduction）",
+  "aliases": [
+    "coproduction"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "公共服务可以由不同组织位置的参与者共同投入形成，政府与公众并非只能二选一。",
+  "analysis_level": "分析单位：某项公共服务中不同主体的共同投入。核心概念：互补投入、参与、服务生产。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定一项公众实际参与生产的服务；满意度反馈不自动等于共同生产。",
+  "applicable": "限定一项公众实际参与生产的服务；满意度反馈不自动等于共同生产。",
+  "public_management_conditions": "限定一项公众实际参与生产的服务；满意度反馈不自动等于共同生产。",
+  "inapplicable": "参与人数不是质量；自选择、专业能力和资源差异可能解释结果。",
+  "competing_explanations": "参与人数不是质量；自选择、专业能力和资源差异可能解释结果。",
+  "author_claims": "公共服务可以由不同组织位置的参与者共同投入形成，政府与公众并非只能二选一。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一项公众实际参与生产的服务；满意度反馈不自动等于共同生产。\n- 待检验机制：任务分工及互补投入→参与质量→服务结果。\n- 可观察材料与方法：政府和公众投入、服务过程与覆盖；考虑未参与者及参与成本。\n- 决策落点：调整具体参与环节、支持条件与责任分担，避免把公共职责无偿转嫁给居民。\n- 边界与竞争解释：参与人数不是质量；自选择、专业能力和资源差异可能解释结果。",
+  "sources": [
+    {
+      "title": "Elinor Ostrom（1996）Crossing the Great Divide: Coproduction, Synergy, and Development",
+      "url": "https://www.sciencedirect.com/science/article/pii/0305750X9600023X",
+      "access_level": "abstract",
+      "read_locator": "原刊可检索摘要/引入内容；直接访问可能受限，不标全文。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/coproduction.md",
+  "legacy_sha256": "882f8687938c9ab0e8b787a7eeba5669dc8d5b27e30366d4441a4b9c9ac61c91",
+  "legacy_markdown": "---\ntheory_id: coproduction\nname: 公共服务共同生产\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 公共服务共同生产\n\n模块：协作与公共服务。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Elinor Ostrom（1996）Crossing the Great Divide: Coproduction, Synergy, and Development](https://www.sciencedirect.com/science/article/pii/0305750X9600023X)。读取范围：原刊可检索摘要/引入内容；直接访问可能受限，不标全文。\n\n## 基础命题\n\n公共服务可以由不同组织位置的参与者共同投入形成，政府与公众并非只能二选一。\n\n## 概念与分析层级\n\n分析单位：某项公共服务中不同主体的共同投入。核心概念：互补投入、参与、服务生产。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一项公众实际参与生产的服务；满意度反馈不自动等于共同生产。\n- 待检验机制：任务分工及互补投入→参与质量→服务结果。\n- 可观察材料与方法：政府和公众投入、服务过程与覆盖；考虑未参与者及参与成本。\n- 决策落点：调整具体参与环节、支持条件与责任分担，避免把公共职责无偿转嫁给居民。\n- 边界与竞争解释：参与人数不是质量；自选择、专业能力和资源差异可能解释结果。\n"
+}

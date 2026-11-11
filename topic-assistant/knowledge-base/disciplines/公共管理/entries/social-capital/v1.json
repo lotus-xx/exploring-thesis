@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "social-capital",
+  "version": 1,
+  "name_zh": "社会资本",
+  "name_en": "英文正式名称未在旧卡单列（social-capital）",
+  "aliases": [
+    "social-capital"
+  ],
+  "kind": "theory",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "义务与预期、信息渠道和规范等关系资源可能支持行动。",
+  "analysis_level": "分析单位：群体或组织的关系结构。核心概念：义务预期、信息渠道、规范。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定社区或组织的具体关系网络；中国情境区分人情关系与可公共使用的互助资源。",
+  "applicable": "限定社区或组织的具体关系网络；中国情境区分人情关系与可公共使用的互助资源。",
+  "public_management_conditions": "限定社区或组织的具体关系网络；中国情境区分人情关系与可公共使用的互助资源。",
+  "inapplicable": "关系多不必然有公共益处；收入、组织能力和自选择需纳入比较。",
+  "competing_explanations": "关系多不必然有公共益处；收入、组织能力和自选择需纳入比较。",
+  "author_claims": "义务与预期、信息渠道和规范等关系资源可能支持行动。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定社区或组织的具体关系网络；中国情境区分人情关系与可公共使用的互助资源。\n- 待检验机制：关系和规范→信息或合作成本变化→公共任务参与。\n- 可观察材料与方法：实际交往、互助记录、网络边界与服务结果；关系测量不直接等于信任。\n- 决策落点：改进具体联系渠道或互助组织，并检查封闭网络对外来者的排斥。\n- 边界与竞争解释：关系多不必然有公共益处；收入、组织能力和自选择需纳入比较。",
+  "sources": [
+    {
+      "title": "James S. Coleman（1988）Social Capital in the Creation of Human Capital",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/228943",
+      "access_level": "abstract",
+      "read_locator": "原刊摘要。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/social-capital.md",
+  "legacy_sha256": "b70e5a796e15e8aab7f9d95ca0bdfe89ad2a3334282bc0ceb68d77341e09995a",
+  "legacy_markdown": "---\ntheory_id: social-capital\nname: 社会资本\nkind: theory\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 社会资本\n\n模块：政社与社会治理。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[James S. Coleman（1988）Social Capital in the Creation of Human Capital](https://www.journals.uchicago.edu/doi/10.1086/228943)。读取范围：原刊摘要。\n\n## 基础命题\n\n义务与预期、信息渠道和规范等关系资源可能支持行动。\n\n## 概念与分析层级\n\n分析单位：群体或组织的关系结构。核心概念：义务预期、信息渠道、规范。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定社区或组织的具体关系网络；中国情境区分人情关系与可公共使用的互助资源。\n- 待检验机制：关系和规范→信息或合作成本变化→公共任务参与。\n- 可观察材料与方法：实际交往、互助记录、网络边界与服务结果；关系测量不直接等于信任。\n- 决策落点：改进具体联系渠道或互助组织，并检查封闭网络对外来者的排斥。\n- 边界与竞争解释：关系多不必然有公共益处；收入、组织能力和自选择需纳入比较。\n"
+}

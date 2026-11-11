@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "campaign-governance",
+  "version": 1,
+  "name_zh": "运动式治理",
+  "name_en": "英文正式名称未在旧卡单列（campaign-governance）",
+  "aliases": [
+    "campaign-governance"
+  ],
+  "kind": "mechanism",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "china",
+  "concepts_and_propositions": "临时政治动员与常规科层运作之间的关系，是解释集中治理的重要线索。",
+  "analysis_level": "分析单位：某次集中治理行动及常态运行。核心概念：动员、注意力、资源集中、常态承接。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定一场专项行动及其前中后阶段，不能把所有短期项目都叫运动式治理。",
+  "applicable": "限定一场专项行动及其前中后阶段，不能把所有短期项目都叫运动式治理。",
+  "public_management_conditions": "限定一场专项行动及其前中后阶段，不能把所有短期项目都叫运动式治理。",
+  "inapplicable": "短期指标上升不证明长效；排查季节、统计口径与同期政策变化。",
+  "competing_explanations": "短期指标上升不证明长效；排查季节、统计口径与同期政策变化。",
+  "author_claims": "临时政治动员与常规科层运作之间的关系，是解释集中治理的重要线索。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一场专项行动及其前中后阶段，不能把所有短期项目都叫运动式治理。\n- 待检验机制：集中注意力与资源→临时执行强化→常态承接或回落。\n- 可观察材料与方法：行动通知、调配记录、阶段绩效和退出后的同口径数据；事件过程比较。\n- 决策落点：判断何种措施应转为常态流程，何时停止动员以及如何保留必要能力。\n- 边界与竞争解释：短期指标上升不证明长效；排查季节、统计口径与同期政策变化。",
+  "sources": [
+    {
+      "title": "周雪光（2012）《运动型治理机制：中国国家治理的制度逻辑再思考》",
+      "url": "https://web.stanford.edu/~xgzhou/zhou_12_campaign_CH.pdf",
+      "access_level": "partial",
+      "read_locator": "作者原论文 PDF，摘要和机制论述。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/campaign-governance.md",
+  "legacy_sha256": "13d9820070b12af57d598c8dd018041540b5acbb58e1688310da2cdea0698a55",
+  "legacy_markdown": "---\ntheory_id: campaign-governance\nname: 运动式治理\nkind: mechanism\norigin: china\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 运动式治理\n\n模块：激励与执行。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[周雪光（2012）《运动型治理机制：中国国家治理的制度逻辑再思考》](https://web.stanford.edu/~xgzhou/zhou_12_campaign_CH.pdf)。读取范围：作者原论文 PDF，摘要和机制论述。\n\n## 基础命题\n\n临时政治动员与常规科层运作之间的关系，是解释集中治理的重要线索。\n\n## 概念与分析层级\n\n分析单位：某次集中治理行动及常态运行。核心概念：动员、注意力、资源集中、常态承接。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一场专项行动及其前中后阶段，不能把所有短期项目都叫运动式治理。\n- 待检验机制：集中注意力与资源→临时执行强化→常态承接或回落。\n- 可观察材料与方法：行动通知、调配记录、阶段绩效和退出后的同口径数据；事件过程比较。\n- 决策落点：判断何种措施应转为常态流程，何时停止动员以及如何保留必要能力。\n- 边界与竞争解释：短期指标上升不证明长效；排查季节、统计口径与同期政策变化。\n"
+}

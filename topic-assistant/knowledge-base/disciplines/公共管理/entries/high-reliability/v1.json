@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "high-reliability",
+  "version": 1,
+  "name_zh": "高可靠性组织",
+  "name_en": "英文正式名称未在旧卡单列（high-reliability）",
+  "aliases": [
+    "high-reliability"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "持续关注失败、实际操作、复杂性、韧性和专业知识，有助于理解可靠性管理。",
+  "analysis_level": "分析单位：高后果风险业务的日常组织过程。核心概念：失败信号、操作、复杂性、韧性、专长。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "聚焦高后果风险的具体公共服务或应急流程；普通效率问题不必强套。",
+  "applicable": "聚焦高后果风险的具体公共服务或应急流程；普通效率问题不必强套。",
+  "public_management_conditions": "聚焦高后果风险的具体公共服务或应急流程；普通效率问题不必强套。",
+  "inapplicable": "未发生事故不能单独证明可靠性；危险暴露和隐瞒上报均会影响观察。",
+  "competing_explanations": "未发生事故不能单独证明可靠性；危险暴露和隐瞒上报均会影响观察。",
+  "author_claims": "持续关注失败、实际操作、复杂性、韧性和专业知识，有助于理解可靠性管理。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：聚焦高后果风险的具体公共服务或应急流程；普通效率问题不必强套。\n- 待检验机制：弱信号识别与专业处置→及时纠偏→事故预防或损失控制。\n- 可观察材料与方法：未遂事件、异常上报、处置记录与复盘；同时查报而未处置的反例。\n- 决策落点：调整预警升级、授权接管或复盘中的具体程序，避免只增加报表。\n- 边界与竞争解释：未发生事故不能单独证明可靠性；危险暴露和隐瞒上报均会影响观察。",
+  "sources": [
+    {
+      "title": "Weick、Sutcliffe（2015）Managing the Unexpected，第1及9章",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781119175834.ch09",
+      "access_level": "abstract",
+      "read_locator": "原出版社章节摘要。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/high-reliability.md",
+  "legacy_sha256": "4741a74a144b64c7bb7e1b4c3fd5121749304285b1b4689820e9d5240b7fb408",
+  "legacy_markdown": "---\ntheory_id: high-reliability\nname: 高可靠性组织\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 高可靠性组织\n\n模块：风险、应急与韧性。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Weick、Sutcliffe（2015）Managing the Unexpected，第1及9章](https://onlinelibrary.wiley.com/doi/10.1002/9781119175834.ch09)。读取范围：原出版社章节摘要。\n\n## 基础命题\n\n持续关注失败、实际操作、复杂性、韧性和专业知识，有助于理解可靠性管理。\n\n## 概念与分析层级\n\n分析单位：高后果风险业务的日常组织过程。核心概念：失败信号、操作、复杂性、韧性、专长。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：聚焦高后果风险的具体公共服务或应急流程；普通效率问题不必强套。\n- 待检验机制：弱信号识别与专业处置→及时纠偏→事故预防或损失控制。\n- 可观察材料与方法：未遂事件、异常上报、处置记录与复盘；同时查报而未处置的反例。\n- 决策落点：调整预警升级、授权接管或复盘中的具体程序，避免只增加报表。\n- 边界与竞争解释：未发生事故不能单独证明可靠性；危险暴露和隐瞒上报均会影响观察。\n"
+}

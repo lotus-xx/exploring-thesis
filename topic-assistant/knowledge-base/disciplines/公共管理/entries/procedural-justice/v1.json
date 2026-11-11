@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "procedural-justice",
+  "version": 1,
+  "name_zh": "程序公正",
+  "name_en": "英文正式名称未在旧卡单列（procedural-justice）",
+  "aliases": [
+    "procedural-justice"
+  ],
+  "kind": "theory",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "程序体验与权威合法性、服从之间存在需要研究的联系，不能只考察结果是否有利。",
+  "analysis_level": "分析单位：具体行政程序及其对象的体验。核心概念：程序体验、合法性、接受、合作。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定一类行政办理、复核或执法过程；区分程序公正感、合法性和满意度。",
+  "applicable": "限定一类行政办理、复核或执法过程；区分程序公正感、合法性和满意度。",
+  "public_management_conditions": "限定一类行政办理、复核或执法过程；区分程序公正感、合法性和满意度。",
+  "inapplicable": "主观公正不替代法定程序；不能以服从度高证明程序本身合法。",
+  "competing_explanations": "主观公正不替代法定程序；不能以服从度高证明程序本身合法。",
+  "author_claims": "程序体验与权威合法性、服从之间存在需要研究的联系，不能只考察结果是否有利。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一类行政办理、复核或执法过程；区分程序公正感、合法性和满意度。\n- 待检验机制：表达机会、中立与尊重等体验→正当性判断→接受或合作。\n- 可观察材料与方法：过程观察、服务对象访谈与实际申诉/合作记录，注意结果有利性影响。\n- 决策落点：改进一个说明、陈述或复核环节，检查不同群体是否平等受益。\n- 边界与竞争解释：主观公正不替代法定程序；不能以服从度高证明程序本身合法。",
+  "sources": [
+    {
+      "title": "Tom R. Tyler（2006版）Why People Obey the Law，作者后记",
+      "url": "https://assets.press.princeton.edu/chapters/p8230.pdf",
+      "access_level": "partial",
+      "read_locator": "原出版社作者后记，程序公正与合法性讨论。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/procedural-justice.md",
+  "legacy_sha256": "bce4e86c31e4c065ea65bf77fc9f5ff65b39fe5e8ea8618731e17c4be2d670f3",
+  "legacy_markdown": "---\ntheory_id: procedural-justice\nname: 程序公正\nkind: theory\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 程序公正\n\n模块：监管、法治与公平。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Tom R. Tyler（2006版）Why People Obey the Law，作者后记](https://assets.press.princeton.edu/chapters/p8230.pdf)。读取范围：原出版社作者后记，程序公正与合法性讨论。\n\n## 基础命题\n\n程序体验与权威合法性、服从之间存在需要研究的联系，不能只考察结果是否有利。\n\n## 概念与分析层级\n\n分析单位：具体行政程序及其对象的体验。核心概念：程序体验、合法性、接受、合作。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一类行政办理、复核或执法过程；区分程序公正感、合法性和满意度。\n- 待检验机制：表达机会、中立与尊重等体验→正当性判断→接受或合作。\n- 可观察材料与方法：过程观察、服务对象访谈与实际申诉/合作记录，注意结果有利性影响。\n- 决策落点：改进一个说明、陈述或复核环节，检查不同群体是否平等受益。\n- 边界与竞争解释：主观公正不替代法定程序；不能以服从度高证明程序本身合法。\n"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "task-technology-fit",
+  "version": 1,
+  "name_zh": "任务—技术匹配",
+  "name_en": "英文正式名称未在旧卡单列（task-technology-fit）",
+  "aliases": [
+    "task-technology-fit"
+  ],
+  "kind": "model",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "技术使用与其对任务的适配，是解释个体工作表现的重要条件。",
+  "analysis_level": "分析单位：使用者执行的具体任务及工具。核心概念：任务要求、技术能力、匹配、使用、表现。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定某类政务任务与具体AI功能，区分检索、起草、校验等不同任务。",
+  "applicable": "限定某类政务任务与具体AI功能，区分检索、起草、校验等不同任务。",
+  "public_management_conditions": "限定某类政务任务与具体AI功能，区分检索、起草、校验等不同任务。",
+  "inapplicable": "不预设AI一定提效；选择使用者的能力差异与额外人工纠错可能改变净效果。",
+  "competing_explanations": "不预设AI一定提效；选择使用者的能力差异与额外人工纠错可能改变净效果。",
+  "author_claims": "技术使用与其对任务的适配，是解释个体工作表现的重要条件。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定某类政务任务与具体AI功能，区分检索、起草、校验等不同任务。\n- 待检验机制：任务要求与技术能力匹配→实际利用方式→速度及质量。\n- 可观察材料与方法：任务分类、使用日志、耗时、错误率和复核成本；不能只测满意度。\n- 决策落点：判断哪个任务可使用、需复核或应停用该功能，并明确适用条件。\n- 边界与竞争解释：不预设AI一定提效；选择使用者的能力差异与额外人工纠错可能改变净效果。",
+  "sources": [
+    {
+      "title": "Goodhue、Thompson（1995）Task-Technology Fit and Individual Performance",
+      "url": "https://doi.org/10.2307/249689",
+      "access_level": "abstract",
+      "read_locator": "原刊检索可读摘要，AIS期刊页核实元数据；全文受限。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/task-technology-fit.md",
+  "legacy_sha256": "2a2c9a0491bdc1396886facf6b3de4acaf2a7d63227863c74193591d3fe9eb5f",
+  "legacy_markdown": "---\ntheory_id: task-technology-fit\nname: 任务—技术匹配\nkind: model\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 任务—技术匹配\n\n模块：数字治理与组织技术。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Goodhue、Thompson（1995）Task-Technology Fit and Individual Performance](https://doi.org/10.2307/249689)。读取范围：原刊检索可读摘要，AIS期刊页核实元数据；全文受限。\n\n## 基础命题\n\n技术使用与其对任务的适配，是解释个体工作表现的重要条件。\n\n## 概念与分析层级\n\n分析单位：使用者执行的具体任务及工具。核心概念：任务要求、技术能力、匹配、使用、表现。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定某类政务任务与具体AI功能，区分检索、起草、校验等不同任务。\n- 待检验机制：任务要求与技术能力匹配→实际利用方式→速度及质量。\n- 可观察材料与方法：任务分类、使用日志、耗时、错误率和复核成本；不能只测满意度。\n- 决策落点：判断哪个任务可使用、需复核或应停用该功能，并明确适用条件。\n- 边界与竞争解释：不预设AI一定提效；选择使用者的能力差异与额外人工纠错可能改变净效果。\n"
+}

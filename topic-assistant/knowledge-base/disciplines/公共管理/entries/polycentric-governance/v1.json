@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "polycentric-governance",
+  "version": 1,
+  "name_zh": "多中心治理",
+  "name_en": "英文正式名称未在旧卡单列（polycentric-governance）",
+  "aliases": [
+    "polycentric-governance"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "公共事务存在多种跨尺度制度安排，不能只用市场与国家二分理解。",
+  "analysis_level": "分析单位：多尺度决策中心及相互关系。核心概念：制度多样性、协调、竞争、学习。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "需有多个实际决策中心及其相互关系；中国语境不把多部门等同于权威完全独立。",
+  "applicable": "需有多个实际决策中心及其相互关系；中国语境不把多部门等同于权威完全独立。",
+  "public_management_conditions": "需有多个实际决策中心及其相互关系；中国语境不把多部门等同于权威完全独立。",
+  "inapplicable": "中心越多不必然更好；应检查责任分散、不平等与协调失败。",
+  "competing_explanations": "中心越多不必然更好；应检查责任分散、不平等与协调失败。",
+  "author_claims": "公共事务存在多种跨尺度制度安排，不能只用市场与国家二分理解。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：需有多个实际决策中心及其相互关系；中国语境不把多部门等同于权威完全独立。\n- 待检验机制：多中心的协调、竞争与学习→互补或冲突→公共服务结果。\n- 可观察材料与方法：决策权限、服务边界、合作规则及重复供给；比较中心之间的实际互动。\n- 决策落点：明确需要增加协调、保留自主还是统一某一规则，核算重复成本。\n- 边界与竞争解释：中心越多不必然更好；应检查责任分散、不平等与协调失败。",
+  "sources": [
+    {
+      "title": "Elinor Ostrom（2010）Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
+      "url": "https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf",
+      "access_level": "partial",
+      "read_locator": "高校托管原刊 PDF，导论和制度多样性论述；AEA核实出版信息。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/polycentric-governance.md",
+  "legacy_sha256": "8fe9d6b6b1cdd67f877d743273db91be1508a60612344ac89d4b81107b9be48a",
+  "legacy_markdown": "---\ntheory_id: polycentric-governance\nname: 多中心治理\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 多中心治理\n\n模块：跨域治理与公共资源。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Elinor Ostrom（2010）Beyond Markets and States: Polycentric Governance of Complex Economic Systems](https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf)。读取范围：高校托管原刊 PDF，导论和制度多样性论述；AEA核实出版信息。\n\n## 基础命题\n\n公共事务存在多种跨尺度制度安排，不能只用市场与国家二分理解。\n\n## 概念与分析层级\n\n分析单位：多尺度决策中心及相互关系。核心概念：制度多样性、协调、竞争、学习。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：需有多个实际决策中心及其相互关系；中国语境不把多部门等同于权威完全独立。\n- 待检验机制：多中心的协调、竞争与学习→互补或冲突→公共服务结果。\n- 可观察材料与方法：决策权限、服务边界、合作规则及重复供给；比较中心之间的实际互动。\n- 决策落点：明确需要增加协调、保留自主还是统一某一规则，核算重复成本。\n- 边界与竞争解释：中心越多不必然更好；应检查责任分散、不平等与协调失败。\n"
+}

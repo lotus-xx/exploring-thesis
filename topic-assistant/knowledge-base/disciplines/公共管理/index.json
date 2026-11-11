@@ -1,0 +1,678 @@
+{
+  "schema_version": 1,
+  "generation": 59,
+  "entries": [
+    {
+      "id": "accountability",
+      "name_zh": "公共问责关系",
+      "name_en": "英文正式名称未在旧卡单列（accountability）",
+      "aliases": [
+        "accountability"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/accountability/v1.json",
+      "version": 1,
+      "sha256": "d59cbe0607a6ceeff90333ff6f6667b6689098c6d2c50748bf73ddeccf9a9af9"
+    },
+    {
+      "id": "adaptive-governance",
+      "name_zh": "适应性治理",
+      "name_en": "英文正式名称未在旧卡单列（adaptive-governance）",
+      "aliases": [
+        "adaptive-governance"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/adaptive-governance/v1.json",
+      "version": 1,
+      "sha256": "e9b1f16eba632d941e09516408a39ba9dff6cfb9e830b04f6f22b61e605a8a4b"
+    },
+    {
+      "id": "administrative-burden",
+      "name_zh": "行政负担",
+      "name_en": "英文正式名称未在旧卡单列（administrative-burden）",
+      "aliases": [
+        "administrative-burden"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/administrative-burden/v1.json",
+      "version": 1,
+      "sha256": "f05bfcd26bf2d0781d4d07c87df61d19002cf7780a3476bdc65cd8b6bf963d87"
+    },
+    {
+      "id": "administrative-subcontracting",
+      "name_zh": "行政发包制",
+      "name_en": "英文正式名称未在旧卡单列（administrative-subcontracting）",
+      "aliases": [
+        "administrative-subcontracting"
+      ],
+      "kind": "model",
+      "path": "disciplines/公共管理/entries/administrative-subcontracting/v1.json",
+      "version": 1,
+      "sha256": "af57add4c42cbc6a1c164c8ca8028e96e259960fd23e62c04dedb0142d40f409"
+    },
+    {
+      "id": "advocacy-coalition",
+      "name_zh": "倡议联盟",
+      "name_en": "英文正式名称未在旧卡单列（advocacy-coalition）",
+      "aliases": [
+        "advocacy-coalition"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/advocacy-coalition/v1.json",
+      "version": 1,
+      "sha256": "07f5d0d2ca75db4091ed543d16efb95859438997352543ffe7571938ca16a5c4"
+    },
+    {
+      "id": "attention-based-view",
+      "name_zh": "注意力基础观",
+      "name_en": "英文正式名称未在旧卡单列（attention-based-view）",
+      "aliases": [
+        "attention-based-view"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/attention-based-view/v1.json",
+      "version": 1,
+      "sha256": "e1c571c3f3a88e9d73c42d058b567b16dffb9a684f89e851d989df895263d028"
+    },
+    {
+      "id": "bureaucracy",
+      "name_zh": "科层制与合法权威",
+      "name_en": "英文正式名称未在旧卡单列（bureaucracy）",
+      "aliases": [
+        "bureaucracy"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/bureaucracy/v1.json",
+      "version": 1,
+      "sha256": "8af682366144c3fcf0c688b6c0a19607baf6cf27016eebec7f397fb6b4d780f3"
+    },
+    {
+      "id": "campaign-governance",
+      "name_zh": "运动式治理",
+      "name_en": "英文正式名称未在旧卡单列（campaign-governance）",
+      "aliases": [
+        "campaign-governance"
+      ],
+      "kind": "mechanism",
+      "path": "disciplines/公共管理/entries/campaign-governance/v1.json",
+      "version": 1,
+      "sha256": "981c27f3d682c9f4f807090f50cb1526c5ac1430aaa67232058d75e5ff21fde9"
+    },
+    {
+      "id": "classified-control",
+      "name_zh": "分类治理与行政吸纳",
+      "name_en": "英文正式名称未在旧卡单列（classified-control）",
+      "aliases": [
+        "classified-control"
+      ],
+      "kind": "family",
+      "path": "disciplines/公共管理/entries/classified-control/v1.json",
+      "version": 1,
+      "sha256": "90f840c5ad1a26888904509973fe043be6c839d1b91497663830ea3d2a88df07"
+    },
+    {
+      "id": "collaborative-governance",
+      "name_zh": "协同治理",
+      "name_en": "英文正式名称未在旧卡单列（collaborative-governance）",
+      "aliases": [
+        "collaborative-governance"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/collaborative-governance/v1.json",
+      "version": 1,
+      "sha256": "46ea3503c724a9dfbce460ba89f84fc9e764d948330bb4addebea198710c940f"
+    },
+    {
+      "id": "collective-action",
+      "name_zh": "集体行动",
+      "name_en": "英文正式名称未在旧卡单列（collective-action）",
+      "aliases": [
+        "collective-action"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/collective-action/v1.json",
+      "version": 1,
+      "sha256": "baef3bf5a3b07c28f151eb0fb149353e4b29ddea605d42c9ca5e52e9469160f9"
+    },
+    {
+      "id": "coproduction",
+      "name_zh": "公共服务共同生产",
+      "name_en": "英文正式名称未在旧卡单列（coproduction）",
+      "aliases": [
+        "coproduction"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/coproduction/v1.json",
+      "version": 1,
+      "sha256": "ab0f23a7e4b68a927df1a2cfe421bfe0e16ec7d524b74260976f5f14e0ea6c87"
+    },
+    {
+      "id": "emergency-management-china",
+      "name_zh": "中国特色应急管理分析图谱",
+      "name_en": "英文正式名称未在旧卡单列（emergency-management-china）",
+      "aliases": [
+        "emergency-management-china"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/emergency-management-china/v1.json",
+      "version": 1,
+      "sha256": "48cf093eec19aca258d3883f3b32a17c038426792715ef10c34751184b3d6f8b"
+    },
+    {
+      "id": "experimentation-hierarchy",
+      "name_zh": "层级体系内政策试验",
+      "name_en": "英文正式名称未在旧卡单列（experimentation-hierarchy）",
+      "aliases": [
+        "experimentation-hierarchy"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/experimentation-hierarchy/v1.json",
+      "version": 1,
+      "sha256": "dc3f6e238c9ef95e07ee5635686663f0687f2991ac8665ec649caf407fda6d55"
+    },
+    {
+      "id": "fiscal-federalism",
+      "name_zh": "财政分权",
+      "name_en": "英文正式名称未在旧卡单列（fiscal-federalism）",
+      "aliases": [
+        "fiscal-federalism"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/fiscal-federalism/v1.json",
+      "version": 1,
+      "sha256": "c3b8119f74407aeab631e4d3c20982465b97d5ad493ea601e26eb08a0aeae894"
+    },
+    {
+      "id": "government-control-rights",
+      "name_zh": "政府治理控制权",
+      "name_en": "英文正式名称未在旧卡单列（government-control-rights）",
+      "aliases": [
+        "government-control-rights"
+      ],
+      "kind": "model",
+      "path": "disciplines/公共管理/entries/government-control-rights/v1.json",
+      "version": 1,
+      "sha256": "0f1d1a72e35d57f26ff17b27e0b266c45dd4a1acf4fcb528da7cd1d8c4972216"
+    },
+    {
+      "id": "high-reliability",
+      "name_zh": "高可靠性组织",
+      "name_en": "英文正式名称未在旧卡单列（high-reliability）",
+      "aliases": [
+        "high-reliability"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/high-reliability/v1.json",
+      "version": 1,
+      "sha256": "faf7f1c7bf025b3a7dbbefbc89c52c5bac18a16e0318e3446d276b60525ab27b"
+    },
+    {
+      "id": "iad",
+      "name_zh": "制度分析与发展",
+      "name_en": "英文正式名称未在旧卡单列（iad）",
+      "aliases": [
+        "iad"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/iad/v1.json",
+      "version": 1,
+      "sha256": "c38dde906c301170ce67e5dc1172e2ade2fe58447d9620d71cb4b93cdd3dcd08"
+    },
+    {
+      "id": "institutional-collective-action",
+      "name_zh": "制度性集体行动",
+      "name_en": "英文正式名称未在旧卡单列（institutional-collective-action）",
+      "aliases": [
+        "institutional-collective-action"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/institutional-collective-action/v1.json",
+      "version": 1,
+      "sha256": "a327fc51783b4d2fefe142b3317a9d2968761a240041fb63fa235530cd8c9204"
+    },
+    {
+      "id": "institutional-decoupling",
+      "name_zh": "组织制度化与脱耦",
+      "name_en": "英文正式名称未在旧卡单列（institutional-decoupling）",
+      "aliases": [
+        "institutional-decoupling"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/institutional-decoupling/v1.json",
+      "version": 1,
+      "sha256": "0d199913b0afb1412b5800c5e9727524111b1eca211679bfe5eb5251a5a8345e"
+    },
+    {
+      "id": "job-demands-resources",
+      "name_zh": "工作要求—资源",
+      "name_en": "英文正式名称未在旧卡单列（job-demands-resources）",
+      "aliases": [
+        "job-demands-resources"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/job-demands-resources/v1.json",
+      "version": 1,
+      "sha256": "c6ef1927a22b386e6a43f2f9b5987fd4d92bfcd3808b20018e0ef75abf7e6a35"
+    },
+    {
+      "id": "local-state-corporatism",
+      "name_zh": "地方国家公司主义",
+      "name_en": "英文正式名称未在旧卡单列（local-state-corporatism）",
+      "aliases": [
+        "local-state-corporatism"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/local-state-corporatism/v1.json",
+      "version": 1,
+      "sha256": "afa7faa57df199d847e86321e7388a363054c66b88cde6e5b802f22249a9e74d"
+    },
+    {
+      "id": "multiple-streams",
+      "name_zh": "多源流",
+      "name_en": "英文正式名称未在旧卡单列（multiple-streams）",
+      "aliases": [
+        "multiple-streams"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/multiple-streams/v1.json",
+      "version": 1,
+      "sha256": "aead202e4c67d25122e0a3c58584e7b7761052014eed1b20f2ade8bc5335775c"
+    },
+    {
+      "id": "narrative-policy",
+      "name_zh": "叙事政策框架",
+      "name_en": "英文正式名称未在旧卡单列（narrative-policy）",
+      "aliases": [
+        "narrative-policy"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/narrative-policy/v1.json",
+      "version": 1,
+      "sha256": "90be98ec584aedf9e1fead862cbcc648535ff998a4b9e0f88338920b87451d77"
+    },
+    {
+      "id": "network-governance",
+      "name_zh": "网络治理模式",
+      "name_en": "英文正式名称未在旧卡单列（network-governance）",
+      "aliases": [
+        "network-governance"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/network-governance/v1.json",
+      "version": 1,
+      "sha256": "6a082df50d3b7cdb5fd1021cada89ed1012523b767f1f5bdba58434082d57dbe"
+    },
+    {
+      "id": "organizational-collusion",
+      "name_zh": "基层组织共谋",
+      "name_en": "英文正式名称未在旧卡单列（organizational-collusion）",
+      "aliases": [
+        "organizational-collusion"
+      ],
+      "kind": "mechanism",
+      "path": "disciplines/公共管理/entries/organizational-collusion/v1.json",
+      "version": 1,
+      "sha256": "f5dc741bd79dc9c69f6fa25c822f7bd9f7f067b768738e38c577b901b7bf2784"
+    },
+    {
+      "id": "party-led-governance",
+      "name_zh": "党建引领社会治理",
+      "name_en": "英文正式名称未在旧卡单列（party-led-governance）",
+      "aliases": [
+        "party-led-governance"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/party-led-governance/v1.json",
+      "version": 1,
+      "sha256": "ebf2599417fdddd31ba4507ce80c1ed4a873d68b6a2b407281b5e2fbd6e0c8d5"
+    },
+    {
+      "id": "path-dependence",
+      "name_zh": "路径依赖",
+      "name_en": "英文正式名称未在旧卡单列（path-dependence）",
+      "aliases": [
+        "path-dependence"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/path-dependence/v1.json",
+      "version": 1,
+      "sha256": "841968039184763eb4d9b9bbeac6e730f320ee58d26458153294c44fe8a5b6c6"
+    },
+    {
+      "id": "policy-diffusion",
+      "name_zh": "政策扩散",
+      "name_en": "英文正式名称未在旧卡单列（policy-diffusion）",
+      "aliases": [
+        "policy-diffusion"
+      ],
+      "kind": "family",
+      "path": "disciplines/公共管理/entries/policy-diffusion/v1.json",
+      "version": 1,
+      "sha256": "4bb02e18ac7e840ab9709779ae45d67b20722f54d369895f0bb1297ddcd13b4c"
+    },
+    {
+      "id": "policy-feedback",
+      "name_zh": "政策反馈",
+      "name_en": "英文正式名称未在旧卡单列（policy-feedback）",
+      "aliases": [
+        "policy-feedback"
+      ],
+      "kind": "family",
+      "path": "disciplines/公共管理/entries/policy-feedback/v1.json",
+      "version": 1,
+      "sha256": "31844a3c19449004cc076c53fc9f0b65d1f7fee41fa2fa5ade49b7caaffa9de3"
+    },
+    {
+      "id": "policy-mix",
+      "name_zh": "政策工具组合",
+      "name_en": "英文正式名称未在旧卡单列（policy-mix）",
+      "aliases": [
+        "policy-mix"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/policy-mix/v1.json",
+      "version": 1,
+      "sha256": "44bb0a4fcad8ea33794de00ee70b032398dcbee97701feb77a6c8cb51a65885b"
+    },
+    {
+      "id": "polycentric-governance",
+      "name_zh": "多中心治理",
+      "name_en": "英文正式名称未在旧卡单列（polycentric-governance）",
+      "aliases": [
+        "polycentric-governance"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/polycentric-governance/v1.json",
+      "version": 1,
+      "sha256": "7fed030ca2e80876997e88fd85044f677401ec0af6b3ed84666b027e7581e298"
+    },
+    {
+      "id": "pressure-system",
+      "name_zh": "压力型体制",
+      "name_en": "英文正式名称未在旧卡单列（pressure-system）",
+      "aliases": [
+        "pressure-system"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/pressure-system/v1.json",
+      "version": 1,
+      "sha256": "8ff0f0528452be1a11d0ead630759d323d65d04d82c727411130210b97e539ea"
+    },
+    {
+      "id": "principal-agent",
+      "name_zh": "委托代理",
+      "name_en": "英文正式名称未在旧卡单列（principal-agent）",
+      "aliases": [
+        "principal-agent"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/principal-agent/v1.json",
+      "version": 1,
+      "sha256": "162261c70e3aed8f5ce16b5b4f80a222ec20200813f3e9652862d1276bb97ce4"
+    },
+    {
+      "id": "procedural-justice",
+      "name_zh": "程序公正",
+      "name_en": "英文正式名称未在旧卡单列（procedural-justice）",
+      "aliases": [
+        "procedural-justice"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/procedural-justice/v1.json",
+      "version": 1,
+      "sha256": "fc47ef58a46dde40b5c8c7b960c0e833b81ed34910a864825927cb12e6f3835a"
+    },
+    {
+      "id": "project-system",
+      "name_zh": "项目制",
+      "name_en": "英文正式名称未在旧卡单列（project-system）",
+      "aliases": [
+        "project-system"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/project-system/v1.json",
+      "version": 1,
+      "sha256": "e89ce55707f6b19eca76fd2c9c26ed3c9826ca0589da17a3a298f0290042e489"
+    },
+    {
+      "id": "promotion-tournament",
+      "name_zh": "晋升锦标赛",
+      "name_en": "英文正式名称未在旧卡单列（promotion-tournament）",
+      "aliases": [
+        "promotion-tournament"
+      ],
+      "kind": "model",
+      "path": "disciplines/公共管理/entries/promotion-tournament/v1.json",
+      "version": 1,
+      "sha256": "61f07a83c0dd0a9fc2d1fb2fd8d85117bc0f611297b2ea4f87e045826d18b13f"
+    },
+    {
+      "id": "public-service-motivation",
+      "name_zh": "公共服务动机",
+      "name_en": "英文正式名称未在旧卡单列（public-service-motivation）",
+      "aliases": [
+        "public-service-motivation"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/public-service-motivation/v1.json",
+      "version": 1,
+      "sha256": "115f59ef05b5ed17614691fe1f40ae476d1d5880c2c5663d1bc66c62ee2c79df"
+    },
+    {
+      "id": "public-value-performance",
+      "name_zh": "公共价值基础的政府绩效治理",
+      "name_en": "英文正式名称未在旧卡单列（public-value-performance）",
+      "aliases": [
+        "public-value-performance"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/public-value-performance/v1.json",
+      "version": 1,
+      "sha256": "ec9c562f437cd5aa5ef8d996cc7ab49cc0ba2d920bf8f3a5f09334bf012b8153"
+    },
+    {
+      "id": "public-value",
+      "name_zh": "公共价值",
+      "name_en": "英文正式名称未在旧卡单列（public-value）",
+      "aliases": [
+        "public-value"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/public-value/v1.json",
+      "version": 1,
+      "sha256": "8e8f88879185675bfa810144f94c170a002699785c131bd5a0f785e5e6c71078"
+    },
+    {
+      "id": "punctuated-equilibrium",
+      "name_zh": "间断均衡",
+      "name_en": "英文正式名称未在旧卡单列（punctuated-equilibrium）",
+      "aliases": [
+        "punctuated-equilibrium"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/punctuated-equilibrium/v1.json",
+      "version": 1,
+      "sha256": "2a80b8fcaecd3b09b8007479b154a4e1123c43a551c61b12b1a7f7ad35254b32"
+    },
+    {
+      "id": "regulatory-capture",
+      "name_zh": "监管俘获与规制利益",
+      "name_en": "英文正式名称未在旧卡单列（regulatory-capture）",
+      "aliases": [
+        "regulatory-capture"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/regulatory-capture/v1.json",
+      "version": 1,
+      "sha256": "0aaf8f2be383c67d53da10fd179fb038c4b24397f045462db4ff3aaad37984c3"
+    },
+    {
+      "id": "resilience",
+      "name_zh": "系统韧性",
+      "name_en": "英文正式名称未在旧卡单列（resilience）",
+      "aliases": [
+        "resilience"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/resilience/v1.json",
+      "version": 1,
+      "sha256": "3aec4d0d5fda73b047a76d37cfd90f331ab01de4b08ae498fcfe2c49723cf82d"
+    },
+    {
+      "id": "responsive-regulation",
+      "name_zh": "回应性监管",
+      "name_en": "英文正式名称未在旧卡单列（responsive-regulation）",
+      "aliases": [
+        "responsive-regulation"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/responsive-regulation/v1.json",
+      "version": 1,
+      "sha256": "7f0822dc77632daf25b52da1d64818dfb1aeb762b67741047bb9beea87ef7e7f"
+    },
+    {
+      "id": "risk-based-regulation",
+      "name_zh": "风险导向监管",
+      "name_en": "英文正式名称未在旧卡单列（risk-based-regulation）",
+      "aliases": [
+        "risk-based-regulation"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/risk-based-regulation/v1.json",
+      "version": 1,
+      "sha256": "4731dc1282547f8141198a53baa325e2ae74b389bbf25fa483c16d52ccc6162a"
+    },
+    {
+      "id": "social-capital",
+      "name_zh": "社会资本",
+      "name_en": "英文正式名称未在旧卡单列（social-capital）",
+      "aliases": [
+        "social-capital"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/social-capital/v1.json",
+      "version": 1,
+      "sha256": "78dfd81ba6e926379f12f8f6935e46822bf0b7e6edc1c0e48014fae1a88c38c1"
+    },
+    {
+      "id": "social-ecological-systems",
+      "name_zh": "社会生态系统",
+      "name_en": "英文正式名称未在旧卡单列（social-ecological-systems）",
+      "aliases": [
+        "social-ecological-systems"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/social-ecological-systems/v1.json",
+      "version": 1,
+      "sha256": "4f4e1b94d2fff82cd8e5715d57c2f21915a67cf84cc2daa89fdcd1355df3b169"
+    },
+    {
+      "id": "sociotechnical-systems",
+      "name_zh": "社会技术系统",
+      "name_en": "英文正式名称未在旧卡单列（sociotechnical-systems）",
+      "aliases": [
+        "sociotechnical-systems"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/sociotechnical-systems/v1.json",
+      "version": 1,
+      "sha256": "a4127c40784aa27375147240037cc702978182c05b2e1c088cf8daf7e4392326"
+    },
+    {
+      "id": "soft-budget-constraint",
+      "name_zh": "软预算约束",
+      "name_en": "英文正式名称未在旧卡单列（soft-budget-constraint）",
+      "aliases": [
+        "soft-budget-constraint"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/soft-budget-constraint/v1.json",
+      "version": 1,
+      "sha256": "aa61efe5d88b28a18fbcc5531d17c83795bea7a3411e6b496091dac4c56e55f2"
+    },
+    {
+      "id": "street-level-bureaucracy",
+      "name_zh": "街头官僚",
+      "name_en": "英文正式名称未在旧卡单列（street-level-bureaucracy）",
+      "aliases": [
+        "street-level-bureaucracy"
+      ],
+      "kind": "theory",
+      "path": "disciplines/公共管理/entries/street-level-bureaucracy/v1.json",
+      "version": 1,
+      "sha256": "5d98793f443ae4aa2e3548bb8e7e400bb94af398c0778034b8719bfe6b723151"
+    },
+    {
+      "id": "target-responsibility",
+      "name_zh": "目标责任制",
+      "name_en": "英文正式名称未在旧卡单列（target-responsibility）",
+      "aliases": [
+        "target-responsibility"
+      ],
+      "kind": "mechanism",
+      "path": "disciplines/公共管理/entries/target-responsibility/v1.json",
+      "version": 1,
+      "sha256": "aa36d5e201ab413ea87838fbe8b7679ccbc20034475be59a10d3cdfcc4f00764"
+    },
+    {
+      "id": "task-technology-fit",
+      "name_zh": "任务—技术匹配",
+      "name_en": "英文正式名称未在旧卡单列（task-technology-fit）",
+      "aliases": [
+        "task-technology-fit"
+      ],
+      "kind": "model",
+      "path": "disciplines/公共管理/entries/task-technology-fit/v1.json",
+      "version": 1,
+      "sha256": "4012113f40e13ccb4df315db6faf94816c96c35d28ed9ffa904933861ed49666"
+    },
+    {
+      "id": "technical-governance-china",
+      "name_zh": "技术治理转型",
+      "name_en": "英文正式名称未在旧卡单列（technical-governance-china）",
+      "aliases": [
+        "technical-governance-china"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/technical-governance-china/v1.json",
+      "version": 1,
+      "sha256": "b6fe2c39a46c996408b2389109d9d259744c194083db26b892e706b7a00acd73"
+    },
+    {
+      "id": "technology-enactment",
+      "name_zh": "技术执行框架",
+      "name_en": "英文正式名称未在旧卡单列（technology-enactment）",
+      "aliases": [
+        "technology-enactment"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/technology-enactment/v1.json",
+      "version": 1,
+      "sha256": "cff4f754c137982044e68c69417f7b8c7c991bc987f3a77c1b44ee6d7950a8ac"
+    },
+    {
+      "id": "tiao-kuai",
+      "name_zh": "条块关系",
+      "name_en": "英文正式名称未在旧卡单列（tiao-kuai）",
+      "aliases": [
+        "tiao-kuai"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/tiao-kuai/v1.json",
+      "version": 1,
+      "sha256": "3e80bdd92234425dc65e47266cf210d1b2f7c7d7318b837d62663fa7d8e384a5"
+    },
+    {
+      "id": "whole-of-government",
+      "name_zh": "整体性政府",
+      "name_en": "英文正式名称未在旧卡单列（whole-of-government）",
+      "aliases": [
+        "whole-of-government"
+      ],
+      "kind": "framework",
+      "path": "disciplines/公共管理/entries/whole-of-government/v1.json",
+      "version": 1,
+      "sha256": "c81ad10d074576cc9a9b6a43e2639979da2d40f46a0eb11844a5cacc7568ab5a"
+    }
+  ]
+}

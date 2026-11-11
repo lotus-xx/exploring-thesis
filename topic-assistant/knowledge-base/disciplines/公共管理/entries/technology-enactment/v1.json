@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "technology-enactment",
+  "version": 1,
+  "name_zh": "技术执行框架",
+  "name_en": "英文正式名称未在旧卡单列（technology-enactment）",
+  "aliases": [
+    "technology-enactment"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "技术进入政府后的作用受到组织结构、政治关系及正式和非正式制度塑造。",
+  "analysis_level": "分析单位：组织中的具体技术使用过程。核心概念：技术能力、实际使用、正式/非正式制度。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定一项系统功能的实际使用；区分购置/上线的技术与被组织实际采用的方式。",
+  "applicable": "限定一项系统功能的实际使用；区分购置/上线的技术与被组织实际采用的方式。",
+  "public_management_conditions": "限定一项系统功能的实际使用；区分购置/上线的技术与被组织实际采用的方式。",
+  "inapplicable": "框架不等于技术必然无效；需排查技术质量、资源和用户任务差异。",
+  "competing_explanations": "框架不等于技术必然无效；需排查技术质量、资源和用户任务差异。",
+  "author_claims": "技术进入政府后的作用受到组织结构、政治关系及正式和非正式制度塑造。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一项系统功能的实际使用；区分购置/上线的技术与被组织实际采用的方式。\n- 待检验机制：制度与组织安排→技术使用和改造→业务结果。\n- 可观察材料与方法：制度、权限配置、系统日志和工作流程访谈；对照同技术不同组织或同组织改造前后。\n- 决策落点：调整数据权限、责任或工作流程，明确为何单纯换软件未必解决问题。\n- 边界与竞争解释：框架不等于技术必然无效；需排查技术质量、资源和用户任务差异。",
+  "sources": [
+    {
+      "title": "Jane E. Fountain（2001）Building the Virtual State；作者 Bureaucratic Reform and E-Government 章节",
+      "url": "https://www.brookings.edu/books/building-the-virtual-state/",
+      "access_level": "metadata",
+      "read_locator": "原出版社书介与作者章节摘要；未宣称原著全文阅读。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "metadata-only",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/technology-enactment.md",
+  "legacy_sha256": "57e2593cc1f93b5f612c53279ef4e765cb086d81b9ada273ab457928ebe55491",
+  "legacy_markdown": "---\ntheory_id: technology-enactment\nname: 技术执行框架\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 技术执行框架\n\n模块：数字治理与组织技术。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Jane E. Fountain（2001）Building the Virtual State；作者 Bureaucratic Reform and E-Government 章节](https://www.brookings.edu/books/building-the-virtual-state/)。读取范围：原出版社书介与作者章节摘要；未宣称原著全文阅读。\n\n## 基础命题\n\n技术进入政府后的作用受到组织结构、政治关系及正式和非正式制度塑造。\n\n## 概念与分析层级\n\n分析单位：组织中的具体技术使用过程。核心概念：技术能力、实际使用、正式/非正式制度。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一项系统功能的实际使用；区分购置/上线的技术与被组织实际采用的方式。\n- 待检验机制：制度与组织安排→技术使用和改造→业务结果。\n- 可观察材料与方法：制度、权限配置、系统日志和工作流程访谈；对照同技术不同组织或同组织改造前后。\n- 决策落点：调整数据权限、责任或工作流程，明确为何单纯换软件未必解决问题。\n- 边界与竞争解释：框架不等于技术必然无效；需排查技术质量、资源和用户任务差异。\n"
+}

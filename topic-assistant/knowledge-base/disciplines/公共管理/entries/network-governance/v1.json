@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "network-governance",
+  "version": 1,
+  "name_zh": "网络治理模式",
+  "name_en": "英文正式名称未在旧卡单列（network-governance）",
+  "aliases": [
+    "network-governance"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "参与者共同治理、主导组织和专门网络管理机构是不同治理安排，需匹配条件。",
+  "analysis_level": "分析单位：有边界的组织间合作网络。核心概念：共同治理、主导组织、网络管理机构。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定一张有实际合作关系的服务网络；政府主导并不意味网络成员都平权。",
+  "applicable": "限定一张有实际合作关系的服务网络；政府主导并不意味网络成员都平权。",
+  "public_management_conditions": "限定一张有实际合作关系的服务网络；政府主导并不意味网络成员都平权。",
+  "inapplicable": "通讯录不能作为合作网络；不能把中心性直接当治理绩效。",
+  "competing_explanations": "通讯录不能作为合作网络；不能把中心性直接当治理绩效。",
+  "author_claims": "参与者共同治理、主导组织和专门网络管理机构是不同治理安排，需匹配条件。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一张有实际合作关系的服务网络；政府主导并不意味网络成员都平权。\n- 待检验机制：治理模式与网络条件匹配→协调和责任安排→整体服务表现。\n- 可观察材料与方法：组织间联系、决策规则、共同项目及服务结果；网络分析结合过程材料。\n- 决策落点：判断是否需要牵头组织、共同决策或独立协调岗位，计算维护成本。\n- 边界与竞争解释：通讯录不能作为合作网络；不能把中心性直接当治理绩效。",
+  "sources": [
+    {
+      "title": "Provan、Kenis（2008）Modes of Network Governance: Structure, Management, and Effectiveness",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1157682",
+      "access_level": "abstract",
+      "read_locator": "作者公开摘要；作者高校登记核实题名年份。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/network-governance.md",
+  "legacy_sha256": "2499debd9836ff4b84b65e33d7af7a5490bcbd95e2356fb9cbadb38627d04b77",
+  "legacy_markdown": "---\ntheory_id: network-governance\nname: 网络治理模式\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 网络治理模式\n\n模块：协作与公共服务。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Provan、Kenis（2008）Modes of Network Governance: Structure, Management, and Effectiveness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1157682)。读取范围：作者公开摘要；作者高校登记核实题名年份。\n\n## 基础命题\n\n参与者共同治理、主导组织和专门网络管理机构是不同治理安排，需匹配条件。\n\n## 概念与分析层级\n\n分析单位：有边界的组织间合作网络。核心概念：共同治理、主导组织、网络管理机构。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一张有实际合作关系的服务网络；政府主导并不意味网络成员都平权。\n- 待检验机制：治理模式与网络条件匹配→协调和责任安排→整体服务表现。\n- 可观察材料与方法：组织间联系、决策规则、共同项目及服务结果；网络分析结合过程材料。\n- 决策落点：判断是否需要牵头组织、共同决策或独立协调岗位，计算维护成本。\n- 边界与竞争解释：通讯录不能作为合作网络；不能把中心性直接当治理绩效。\n"
+}

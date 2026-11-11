@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "multiple-streams",
+  "version": 1,
+  "name_zh": "多源流",
+  "name_en": "英文正式名称未在旧卡单列（multiple-streams）",
+  "aliases": [
+    "multiple-streams"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "问题、政策方案与政治条件的汇合可用于解释议程和政策变化。",
+  "analysis_level": "分析单位：一项政策的议程形成过程。核心概念：问题流、政策流、政治流、窗口。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定一项政策进入议程的事件；中国情境具体说明政治流的制度含义。",
+  "applicable": "限定一项政策进入议程的事件；中国情境具体说明政治流的制度含义。",
+  "public_management_conditions": "限定一项政策进入议程的事件；中国情境具体说明政治流的制度含义。",
+  "inapplicable": "不得事后把所有事件都塞进三流；政策议程解释不能替代实施效果评估。",
+  "competing_explanations": "不得事后把所有事件都塞进三流；政策议程解释不能替代实施效果评估。",
+  "author_claims": "问题、政策方案与政治条件的汇合可用于解释议程和政策变化。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一项政策进入议程的事件；中国情境具体说明政治流的制度含义。\n- 待检验机制：问题被识别、方案可用与政治条件→窗口及促成者活动→议程变化。\n- 可观察材料与方法：政策时间线、草案、会议、行动者资料；过程追踪与未进入议程案例比较。\n- 决策落点：判断解决当前问题缺少的是证据、可执行方案还是协调窗口。\n- 边界与竞争解释：不得事后把所有事件都塞进三流；政策议程解释不能替代实施效果评估。",
+  "sources": [
+    {
+      "title": "DeLeo、Zohlnhöfer、Zahariadis（2024）Multiple Streams and Policy Ambiguity；承接 Kingdon",
+      "url": "https://www.cambridge.org/core/elements/abs/multiple-streams-and-policy-ambiguity/FBA20248D4A359D38AF7083D00F5149E",
+      "access_level": "metadata",
+      "read_locator": "作者研究专著摘要与概念介绍；非整书通读。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "metadata-only",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/multiple-streams.md",
+  "legacy_sha256": "7372aff34228952ceef8ffe174c3623001c0886408438d74cc720304384231f1",
+  "legacy_markdown": "---\ntheory_id: multiple-streams\nname: 多源流\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 多源流\n\n模块：政策议程与变迁。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[DeLeo、Zohlnhöfer、Zahariadis（2024）Multiple Streams and Policy Ambiguity；承接 Kingdon](https://www.cambridge.org/core/elements/abs/multiple-streams-and-policy-ambiguity/FBA20248D4A359D38AF7083D00F5149E)。读取范围：作者研究专著摘要与概念介绍；非整书通读。\n\n## 基础命题\n\n问题、政策方案与政治条件的汇合可用于解释议程和政策变化。\n\n## 概念与分析层级\n\n分析单位：一项政策的议程形成过程。核心概念：问题流、政策流、政治流、窗口。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一项政策进入议程的事件；中国情境具体说明政治流的制度含义。\n- 待检验机制：问题被识别、方案可用与政治条件→窗口及促成者活动→议程变化。\n- 可观察材料与方法：政策时间线、草案、会议、行动者资料；过程追踪与未进入议程案例比较。\n- 决策落点：判断解决当前问题缺少的是证据、可执行方案还是协调窗口。\n- 边界与竞争解释：不得事后把所有事件都塞进三流；政策议程解释不能替代实施效果评估。\n"
+}

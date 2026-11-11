@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "public-value-performance",
+  "version": 1,
+  "name_zh": "公共价值基础的政府绩效治理",
+  "name_en": "英文正式名称未在旧卡单列（public-value-performance）",
+  "aliases": [
+    "public-value-performance"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "china",
+  "concepts_and_propositions": "把绩效的价值建构、组织管理与协同领导联系起来，强调政府绩效的公共价值基础。",
+  "analysis_level": "分析单位：一项政府绩效治理过程。核心概念：价值建构、组织管理、协同领导。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "针对某地一项绩效考核，说明谁界定绩效、谁承担成本、谁实际受益。",
+  "applicable": "针对某地一项绩效考核，说明谁界定绩效、谁承担成本、谁实际受益。",
+  "public_management_conditions": "针对某地一项绩效考核，说明谁界定绩效、谁承担成本、谁实际受益。",
+  "inapplicable": "不把理论命题当本次实证结论；与一般战略三角有联系但不是同一模型，通常无需双主理论。",
+  "competing_explanations": "不把理论命题当本次实证结论；与一般战略三角有联系但不是同一模型，通常无需双主理论。",
+  "author_claims": "把绩效的价值建构、组织管理与协同领导联系起来，强调政府绩效的公共价值基础。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：针对某地一项绩效考核，说明谁界定绩效、谁承担成本、谁实际受益。\n- 待检验机制：价值建构与管理安排→指标及组织行动→社会需求回应。\n- 可观察材料与方法：指标形成过程、评价主体、业务产出与受益分布；不能只复算综合得分。\n- 决策落点：重设一个确实偏离需求的指标或评价环节，并检验改动后的后果。\n- 边界与竞争解释：不把理论命题当本次实证结论；与一般战略三角有联系但不是同一模型，通常无需双主理论。",
+  "sources": [
+    {
+      "title": "包国宪、王学军（2012）《以公共价值为基础的政府绩效治理——源起、架构与研究问题》",
+      "url": "https://gggl.cbpt.cnki.net/portal/journal/portal/client/paper/d79d1af464dd99db301857f3c4202b18",
+      "access_level": "abstract",
+      "read_locator": "原刊摘要。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/public-value-performance.md",
+  "legacy_sha256": "c3366835cb63790edc476b943b7ceb415fe507d0c8a28e02ab11cf51f381db75",
+  "legacy_markdown": "---\ntheory_id: public-value-performance\nname: 公共价值基础的政府绩效治理\nkind: framework\norigin: china\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 公共价值基础的政府绩效治理\n\n模块：价值、绩效与责任。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[包国宪、王学军（2012）《以公共价值为基础的政府绩效治理——源起、架构与研究问题》](https://gggl.cbpt.cnki.net/portal/journal/portal/client/paper/d79d1af464dd99db301857f3c4202b18)。读取范围：原刊摘要。\n\n## 基础命题\n\n把绩效的价值建构、组织管理与协同领导联系起来，强调政府绩效的公共价值基础。\n\n## 概念与分析层级\n\n分析单位：一项政府绩效治理过程。核心概念：价值建构、组织管理、协同领导。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：针对某地一项绩效考核，说明谁界定绩效、谁承担成本、谁实际受益。\n- 待检验机制：价值建构与管理安排→指标及组织行动→社会需求回应。\n- 可观察材料与方法：指标形成过程、评价主体、业务产出与受益分布；不能只复算综合得分。\n- 决策落点：重设一个确实偏离需求的指标或评价环节，并检验改动后的后果。\n- 边界与竞争解释：不把理论命题当本次实证结论；与一般战略三角有联系但不是同一模型，通常无需双主理论。\n"
+}

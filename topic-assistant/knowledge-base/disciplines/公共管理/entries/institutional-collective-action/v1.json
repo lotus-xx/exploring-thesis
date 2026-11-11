@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "institutional-collective-action",
+  "version": 1,
+  "name_zh": "制度性集体行动",
+  "name_en": "英文正式名称未在旧卡单列（institutional-collective-action）",
+  "aliases": [
+    "institutional-collective-action"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "辖区或职能权威分割造成外部性，合作风险与交易成本影响协调机制选择。",
+  "analysis_level": "分析单位：辖区或职能分割下的合作关系。核心概念：外部性、交易成本、合作风险、机制。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定相邻地区或部门之间的一项外溢事务；中国情境核实上级协调权。",
+  "applicable": "限定相邻地区或部门之间的一项外溢事务；中国情境核实上级协调权。",
+  "public_management_conditions": "限定相邻地区或部门之间的一项外溢事务；中国情境核实上级协调权。",
+  "inapplicable": "共同开会不等于有效合作；上级命令、共同财政来源或既有网络也可解释合作。",
+  "competing_explanations": "共同开会不等于有效合作；上级命令、共同财政来源或既有网络也可解释合作。",
+  "author_claims": "辖区或职能权威分割造成外部性，合作风险与交易成本影响协调机制选择。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定相邻地区或部门之间的一项外溢事务；中国情境核实上级协调权。\n- 待检验机制：权责分割和外溢→合作风险与成本→协议或组织形式选择。\n- 可观察材料与方法：跨域协议、收益成本、执行与争议记录；比较合作形成与失效案例。\n- 决策落点：确定成本分担、履约保障或争议处理的具体机制。\n- 边界与竞争解释：共同开会不等于有效合作；上级命令、共同财政来源或既有网络也可解释合作。",
+  "sources": [
+    {
+      "title": "Richard C. Feiock（2013）The Institutional Collective Action Framework",
+      "url": "https://doi.org/10.1111/psj.12023",
+      "access_level": "partial",
+      "read_locator": "原刊摘要及引入部分。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/institutional-collective-action.md",
+  "legacy_sha256": "a94c62f31116b3f2296992b0940a5497aa4270272661bb4c45b4b937d3c1a0c0",
+  "legacy_markdown": "---\ntheory_id: institutional-collective-action\nname: 制度性集体行动\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 制度性集体行动\n\n模块：跨域治理与公共资源。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Richard C. Feiock（2013）The Institutional Collective Action Framework](https://doi.org/10.1111/psj.12023)。读取范围：原刊摘要及引入部分。\n\n## 基础命题\n\n辖区或职能权威分割造成外部性，合作风险与交易成本影响协调机制选择。\n\n## 概念与分析层级\n\n分析单位：辖区或职能分割下的合作关系。核心概念：外部性、交易成本、合作风险、机制。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定相邻地区或部门之间的一项外溢事务；中国情境核实上级协调权。\n- 待检验机制：权责分割和外溢→合作风险与成本→协议或组织形式选择。\n- 可观察材料与方法：跨域协议、收益成本、执行与争议记录；比较合作形成与失效案例。\n- 决策落点：确定成本分担、履约保障或争议处理的具体机制。\n- 边界与竞争解释：共同开会不等于有效合作；上级命令、共同财政来源或既有网络也可解释合作。\n"
+}

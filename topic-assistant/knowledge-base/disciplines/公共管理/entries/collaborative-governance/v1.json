@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "collaborative-governance",
+  "version": 1,
+  "name_zh": "协同治理",
+  "name_en": "英文正式名称未在旧卡单列（collaborative-governance）",
+  "aliases": [
+    "collaborative-governance"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "合作的起始条件、制度设计、领导和互动过程影响协作的形成与持续。",
+  "analysis_level": "分析单位：共同公共问题上的跨界协作过程。核心概念：起始条件、制度设计、互动、承诺。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "界定具体政府与非政府参与者、共同问题和决策规则；普通行政会签不自动算协同治理。",
+  "applicable": "界定具体政府与非政府参与者、共同问题和决策规则；普通行政会签不自动算协同治理。",
+  "public_management_conditions": "界定具体政府与非政府参与者、共同问题和决策规则；普通行政会签不自动算协同治理。",
+  "inapplicable": "参与更多不一定更有效；法定层级命令和资源追加可能直接解释结果。",
+  "competing_explanations": "参与更多不一定更有效；法定层级命令和资源追加可能直接解释结果。",
+  "author_claims": "合作的起始条件、制度设计、领导和互动过程影响协作的形成与持续。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：界定具体政府与非政府参与者、共同问题和决策规则；普通行政会签不自动算协同治理。\n- 待检验机制：参与条件与互动过程→信任/承诺→共同执行。\n- 可观察材料与方法：协商记录、权责安排、参与者访谈和执行结果；追踪协作破裂或未加入者。\n- 决策落点：改进参与规则、共同信息或冲突处理，明确牵头者与资源约束。\n- 边界与竞争解释：参与更多不一定更有效；法定层级命令和资源追加可能直接解释结果。",
+  "sources": [
+    {
+      "title": "Ansell、Gash（2008）Collaborative Governance in Theory and Practice",
+      "url": "https://academic.oup.com/jpart/article-abstract/18/4/543/1090370",
+      "access_level": "abstract",
+      "read_locator": "原刊可检索摘要；出版页访问受限不声称全文已读。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/collaborative-governance.md",
+  "legacy_sha256": "e2a23be31f900ba6aec4830a6fb909cf0683441b4173619457ff9739c4b654b7",
+  "legacy_markdown": "---\ntheory_id: collaborative-governance\nname: 协同治理\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 协同治理\n\n模块：协作与公共服务。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Ansell、Gash（2008）Collaborative Governance in Theory and Practice](https://academic.oup.com/jpart/article-abstract/18/4/543/1090370)。读取范围：原刊可检索摘要；出版页访问受限不声称全文已读。\n\n## 基础命题\n\n合作的起始条件、制度设计、领导和互动过程影响协作的形成与持续。\n\n## 概念与分析层级\n\n分析单位：共同公共问题上的跨界协作过程。核心概念：起始条件、制度设计、互动、承诺。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：界定具体政府与非政府参与者、共同问题和决策规则；普通行政会签不自动算协同治理。\n- 待检验机制：参与条件与互动过程→信任/承诺→共同执行。\n- 可观察材料与方法：协商记录、权责安排、参与者访谈和执行结果；追踪协作破裂或未加入者。\n- 决策落点：改进参与规则、共同信息或冲突处理，明确牵头者与资源约束。\n- 边界与竞争解释：参与更多不一定更有效；法定层级命令和资源追加可能直接解释结果。\n"
+}

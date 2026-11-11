@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "emergency-management-china",
+  "version": 1,
+  "name_zh": "中国特色应急管理分析图谱",
+  "name_en": "英文正式名称未在旧卡单列（emergency-management-china）",
+  "aliases": [
+    "emergency-management-china"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "china",
+  "concepts_and_propositions": "以事件特征、管理体系与时空环境组织应急管理问题，避免脱离制度情境讨论。",
+  "analysis_level": "分析单位：一种事件在一个管理阶段的治理过程。核心概念：事件特征、管理体系、时空环境。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定一种风险、一个地区和一个管理阶段；图谱是问题定位框架，不是统一因果定律。",
+  "applicable": "限定一种风险、一个地区和一个管理阶段；图谱是问题定位框架，不是统一因果定律。",
+  "public_management_conditions": "限定一种风险、一个地区和一个管理阶段；图谱是问题定位框架，不是统一因果定律。",
+  "inapplicable": "不能用制度名称直接证明有效；事件强度、人口暴露和事前准备差异须核对。",
+  "competing_explanations": "不能用制度名称直接证明有效；事件强度、人口暴露和事前准备差异须核对。",
+  "author_claims": "以事件特征、管理体系与时空环境组织应急管理问题，避免脱离制度情境讨论。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一种风险、一个地区和一个管理阶段；图谱是问题定位框架，不是统一因果定律。\n- 待检验机制：具体事件条件与管理安排匹配→响应或恢复过程→损失与服务连续性。\n- 可观察材料与方法：预案、事件时间线、资源调配及复盘，区分事前设计和事后描述。\n- 决策落点：定位预警、指挥、协作或恢复中的一个可调整环节。\n- 边界与竞争解释：不能用制度名称直接证明有效；事件强度、人口暴露和事前准备差异须核对。",
+  "sources": [
+    {
+      "title": "钟开斌、薛澜（2025）《中国特色应急管理理论研究的基本图谱》",
+      "url": "https://ccmr.sppm.tsinghua.edu.cn/cnews/1410.jhtml",
+      "access_level": "partial",
+      "read_locator": "作者研究机构文章摘要；非全部原刊正文。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/emergency-management-china.md",
+  "legacy_sha256": "af38f39bd6496c4ebf93872898b1d1bcf2d25dbd3fbb62ad41c43cc5116bd72f",
+  "legacy_markdown": "---\ntheory_id: emergency-management-china\nname: 中国特色应急管理分析图谱\nkind: framework\norigin: china\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 中国特色应急管理分析图谱\n\n模块：风险、应急与韧性。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[钟开斌、薛澜（2025）《中国特色应急管理理论研究的基本图谱》](https://ccmr.sppm.tsinghua.edu.cn/cnews/1410.jhtml)。读取范围：作者研究机构文章摘要；非全部原刊正文。\n\n## 基础命题\n\n以事件特征、管理体系与时空环境组织应急管理问题，避免脱离制度情境讨论。\n\n## 概念与分析层级\n\n分析单位：一种事件在一个管理阶段的治理过程。核心概念：事件特征、管理体系、时空环境。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一种风险、一个地区和一个管理阶段；图谱是问题定位框架，不是统一因果定律。\n- 待检验机制：具体事件条件与管理安排匹配→响应或恢复过程→损失与服务连续性。\n- 可观察材料与方法：预案、事件时间线、资源调配及复盘，区分事前设计和事后描述。\n- 决策落点：定位预警、指挥、协作或恢复中的一个可调整环节。\n- 边界与竞争解释：不能用制度名称直接证明有效；事件强度、人口暴露和事前准备差异须核对。\n"
+}

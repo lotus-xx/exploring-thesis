@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "punctuated-equilibrium",
+  "version": 1,
+  "name_zh": "间断均衡",
+  "name_en": "英文正式名称未在旧卡单列（punctuated-equilibrium）",
+  "aliases": [
+    "punctuated-equilibrium"
+  ],
+  "kind": "theory",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "政策长期稳定与间歇性显著变化可以共同存在。",
+  "analysis_level": "分析单位：跨时段政策议程或预算序列。核心概念：稳定、突变、注意力、政策表述。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "需足够长且口径一致的议程、预算或政策序列；不能用一次前后差异证明。",
+  "applicable": "需足够长且口径一致的议程、预算或政策序列；不能用一次前后差异证明。",
+  "public_management_conditions": "需足够长且口径一致的议程、预算或政策序列；不能用一次前后差异证明。",
+  "inapplicable": "书介不支持完整因果模型细节；数据不足时仅作启发，与外生冲击解释比较。",
+  "competing_explanations": "书介不支持完整因果模型细节；数据不足时仅作启发，与外生冲击解释比较。",
+  "author_claims": "政策长期稳定与间歇性显著变化可以共同存在。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：需足够长且口径一致的议程、预算或政策序列；不能用一次前后差异证明。\n- 待检验机制：注意力和问题表述改变→既有安排受挑战→变化幅度扩大。\n- 可观察材料与方法：纵向文本、预算或议题数据，预先定义变化指标和异常阈值。\n- 决策落点：识别决策积压、反馈失灵或调整节奏问题，提出监测与渐进纠偏安排。\n- 边界与竞争解释：书介不支持完整因果模型细节；数据不足时仅作启发，与外生冲击解释比较。",
+  "sources": [
+    {
+      "title": "Baumgartner、Jones（2009，第2版）Agendas and Instability in American Politics",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/A/bo6763995.html",
+      "access_level": "metadata",
+      "read_locator": "原出版社书介；仅据其稳定与突变命题建立基础卡。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "metadata-only",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/punctuated-equilibrium.md",
+  "legacy_sha256": "a3e791f3b3f3ddf96bf8e77b4ec5a56f45f7bc70b931146d9d9751fbd6a2669b",
+  "legacy_markdown": "---\ntheory_id: punctuated-equilibrium\nname: 间断均衡\nkind: theory\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 间断均衡\n\n模块：政策议程与变迁。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Baumgartner、Jones（2009，第2版）Agendas and Instability in American Politics](https://press.uchicago.edu/ucp/books/book/chicago/A/bo6763995.html)。读取范围：原出版社书介；仅据其稳定与突变命题建立基础卡。\n\n## 基础命题\n\n政策长期稳定与间歇性显著变化可以共同存在。\n\n## 概念与分析层级\n\n分析单位：跨时段政策议程或预算序列。核心概念：稳定、突变、注意力、政策表述。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：需足够长且口径一致的议程、预算或政策序列；不能用一次前后差异证明。\n- 待检验机制：注意力和问题表述改变→既有安排受挑战→变化幅度扩大。\n- 可观察材料与方法：纵向文本、预算或议题数据，预先定义变化指标和异常阈值。\n- 决策落点：识别决策积压、反馈失灵或调整节奏问题，提出监测与渐进纠偏安排。\n- 边界与竞争解释：书介不支持完整因果模型细节；数据不足时仅作启发，与外生冲击解释比较。\n"
+}

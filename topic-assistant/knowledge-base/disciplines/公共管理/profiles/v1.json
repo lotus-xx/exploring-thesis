@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "version": 1,
+  "name": "公共管理",
+  "aliases": [
+    "公共行政",
+    "行政管理",
+    "public administration",
+    "public management",
+    "MPA"
+  ],
+  "paradigms": [
+    "经验解释",
+    "制度比较",
+    "规范论证",
+    "历史研究"
+  ],
+  "source_portals": [
+    "references/journal-sources.md"
+  ],
+  "hotspot_categories": [
+    "governance",
+    "policy",
+    "academic-cn",
+    "academic-intl"
+  ],
+  "scope_fields": [
+    "region",
+    "population",
+    "setting",
+    "time_window",
+    "unit",
+    "basis"
+  ],
+  "research_types": [
+    "empirical",
+    "text",
+    "normative",
+    "historical"
+  ],
+  "public_management": true,
+  "qualification": [
+    "scope",
+    "single_problem",
+    "problem_basis",
+    "ai_boundary",
+    "theory_fit",
+    "decision_relevance"
+  ],
+  "notes": "治理决策、AI政务边界和中国制度条件仅在相关公共管理问题适用；缺理论允许纯论文。"
+}

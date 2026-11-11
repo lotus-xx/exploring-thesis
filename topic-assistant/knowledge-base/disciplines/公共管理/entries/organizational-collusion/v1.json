@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "organizational-collusion",
+  "version": 1,
+  "name_zh": "基层组织共谋",
+  "name_en": "英文正式名称未在旧卡单列（organizational-collusion）",
+  "aliases": [
+    "organizational-collusion"
+  ],
+  "kind": "mechanism",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "china",
+  "concepts_and_propositions": "正式要求与执行情境的张力可能促成组织间共同应对监督的非正式安排。",
+  "analysis_level": "分析单位：上下级基层组织共同应对执行的过程。核心概念：正式要求、非正式安排、执行偏差。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "研究已有可靠迹象的执行偏差；不得仅凭推测给具体部门贴共谋标签。",
+  "applicable": "研究已有可靠迹象的执行偏差；不得仅凭推测给具体部门贴共谋标签。",
+  "public_management_conditions": "研究已有可靠迹象的执行偏差；不得仅凭推测给具体部门贴共谋标签。",
+  "inapplicable": "合作协调并不等于共谋；区别合法灵活执行、能力不足与故意隐瞒。",
+  "competing_explanations": "合作协调并不等于共谋；区别合法灵活执行、能力不足与故意隐瞒。",
+  "author_claims": "正式要求与执行情境的张力可能促成组织间共同应对监督的非正式安排。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：研究已有可靠迹象的执行偏差；不得仅凭推测给具体部门贴共谋标签。\n- 待检验机制：统一要求与地方约束→共同应对检查→报告和实际执行脱节。\n- 可观察材料与方法：在合法材料范围比较报告、业务记录与不同位置访谈；重视反证和匿名保护。\n- 决策落点：识别考核、信息核验或执行裁量中可调整的制度条件。\n- 边界与竞争解释：合作协调并不等于共谋；区别合法灵活执行、能力不足与故意隐瞒。",
+  "sources": [
+    {
+      "title": "周雪光（2008）《基层政府间的“共谋现象”——一个政府行为的制度逻辑》",
+      "url": "https://shxyj.ajcass.com/Admin/UploadFile/20130926008/2015-08-18/Issue/pj0zwye4.pdf",
+      "access_level": "partial",
+      "read_locator": "期刊原论文 PDF，摘要及问题提出；作者站同文抽取乱码未用作正文证据。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/organizational-collusion.md",
+  "legacy_sha256": "1226a541bc9140d54bea3f5d826a4a2c7c6fe6bf39604b0cb56c5a6e660b2ead",
+  "legacy_markdown": "---\ntheory_id: organizational-collusion\nname: 基层组织共谋\nkind: mechanism\norigin: china\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 基层组织共谋\n\n模块：激励与执行。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[周雪光（2008）《基层政府间的“共谋现象”——一个政府行为的制度逻辑》](https://shxyj.ajcass.com/Admin/UploadFile/20130926008/2015-08-18/Issue/pj0zwye4.pdf)。读取范围：期刊原论文 PDF，摘要及问题提出；作者站同文抽取乱码未用作正文证据。\n\n## 基础命题\n\n正式要求与执行情境的张力可能促成组织间共同应对监督的非正式安排。\n\n## 概念与分析层级\n\n分析单位：上下级基层组织共同应对执行的过程。核心概念：正式要求、非正式安排、执行偏差。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：研究已有可靠迹象的执行偏差；不得仅凭推测给具体部门贴共谋标签。\n- 待检验机制：统一要求与地方约束→共同应对检查→报告和实际执行脱节。\n- 可观察材料与方法：在合法材料范围比较报告、业务记录与不同位置访谈；重视反证和匿名保护。\n- 决策落点：识别考核、信息核验或执行裁量中可调整的制度条件。\n- 边界与竞争解释：合作协调并不等于共谋；区别合法灵活执行、能力不足与故意隐瞒。\n"
+}

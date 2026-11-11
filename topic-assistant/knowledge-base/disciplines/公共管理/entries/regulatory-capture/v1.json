@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "regulatory-capture",
+  "version": 1,
+  "name_zh": "监管俘获与规制利益",
+  "name_en": "英文正式名称未在旧卡单列（regulatory-capture）",
+  "aliases": [
+    "regulatory-capture"
+  ],
+  "kind": "theory",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "从规制的需求与供给分析行业利益如何影响监管安排。",
+  "analysis_level": "分析单位：规则制定及受益利益群体。核心概念：规制需求、政治供给、利益分配。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定一个有可靠公开材料的制度安排；不得仅因监管者与企业接触就指控俘获。",
+  "applicable": "限定一个有可靠公开材料的制度安排；不得仅因监管者与企业接触就指控俘获。",
+  "public_management_conditions": "限定一个有可靠公开材料的制度安排；不得仅因监管者与企业接触就指控俘获。",
+  "inapplicable": "该理论不是所有监管的事实结论；技术复杂性和合法专业咨询可能解释相同行为。",
+  "competing_explanations": "该理论不是所有监管的事实结论；技术复杂性和合法专业咨询可能解释相同行为。",
+  "author_claims": "从规制的需求与供给分析行业利益如何影响监管安排。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一个有可靠公开材料的制度安排；不得仅因监管者与企业接触就指控俘获。\n- 待检验机制：组织化利益及接近决策的机会→规则偏向→收益与成本分配。\n- 可观察材料与方法：规则形成、公开意见、受益分布和利益联系；比较公共利益解释及反例。\n- 决策落点：改进利益披露、咨询代表性或回避安排，明确证据不能支持的指控。\n- 边界与竞争解释：该理论不是所有监管的事实结论；技术复杂性和合法专业咨询可能解释相同行为。",
+  "sources": [
+    {
+      "title": "George J. Stigler（1971）The Theory of Economic Regulation",
+      "url": "https://cooperative-individualism.org/stigler-george_the-theory-of-economic-regulation-1971-spring.pdf",
+      "access_level": "abstract",
+      "read_locator": "原刊扫描件转载，题名页、摘要与论文首页；原刊标识可核。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/regulatory-capture.md",
+  "legacy_sha256": "76f6f5f135668a84fb01795dd667eeee832ea905478b646daa159aa432cfc1b6",
+  "legacy_markdown": "---\ntheory_id: regulatory-capture\nname: 监管俘获与规制利益\nkind: theory\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 监管俘获与规制利益\n\n模块：监管、法治与公平。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[George J. Stigler（1971）The Theory of Economic Regulation](https://cooperative-individualism.org/stigler-george_the-theory-of-economic-regulation-1971-spring.pdf)。读取范围：原刊扫描件转载，题名页、摘要与论文首页；原刊标识可核。\n\n## 基础命题\n\n从规制的需求与供给分析行业利益如何影响监管安排。\n\n## 概念与分析层级\n\n分析单位：规则制定及受益利益群体。核心概念：规制需求、政治供给、利益分配。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一个有可靠公开材料的制度安排；不得仅因监管者与企业接触就指控俘获。\n- 待检验机制：组织化利益及接近决策的机会→规则偏向→收益与成本分配。\n- 可观察材料与方法：规则形成、公开意见、受益分布和利益联系；比较公共利益解释及反例。\n- 决策落点：改进利益披露、咨询代表性或回避安排，明确证据不能支持的指控。\n- 边界与竞争解释：该理论不是所有监管的事实结论；技术复杂性和合法专业咨询可能解释相同行为。\n"
+}

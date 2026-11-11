@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "social-ecological-systems",
+  "version": 1,
+  "name_zh": "社会生态系统",
+  "name_en": "英文正式名称未在旧卡单列（social-ecological-systems）",
+  "aliases": [
+    "social-ecological-systems"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "资源、使用者和治理体系等子系统的互动，有助于理解可持续性与自组织条件。",
+  "analysis_level": "分析单位：资源系统、使用者与治理体系。核心概念：资源、用户、规则、互动、反馈。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限真实资源系统，如具体流域或公共自然资源；无生态资源的数字政务题不强套。",
+  "applicable": "限真实资源系统，如具体流域或公共自然资源；无生态资源的数字政务题不强套。",
+  "public_management_conditions": "限真实资源系统，如具体流域或公共自然资源；无生态资源的数字政务题不强套。",
+  "inapplicable": "框架不支持统一万能处方；不能把制度变量相关性直接解释成生态改善原因。",
+  "competing_explanations": "框架不支持统一万能处方；不能把制度变量相关性直接解释成生态改善原因。",
+  "author_claims": "资源、使用者和治理体系等子系统的互动，有助于理解可持续性与自组织条件。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限真实资源系统，如具体流域或公共自然资源；无生态资源的数字政务题不强套。\n- 待检验机制：资源与群体特征及治理规则→使用互动→资源状态和反馈。\n- 可观察材料与方法：资源变化、使用行为、规则与跨界关系；社会及自然数据需尺度对应。\n- 决策落点：调整一个使用、监测或协商规则，并检查生态和分配后果。\n- 边界与竞争解释：框架不支持统一万能处方；不能把制度变量相关性直接解释成生态改善原因。",
+  "sources": [
+    {
+      "title": "Elinor Ostrom（2009）A General Framework for Analyzing Sustainability of Social-Ecological Systems",
+      "url": "https://citeseerx.ist.psu.edu/document?doi=41cfd3d8a8f567544330b6d5d736032040b9ca87&repid=rep1&type=pdf",
+      "access_level": "partial",
+      "read_locator": "大学文献服务保存的原论文，摘要和框架引入；原刊DOI 10.1126/science.1172133。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/social-ecological-systems.md",
+  "legacy_sha256": "7eafd62572df752136a3079ec1bbc13bab049f67fb0facba7b5235764288a2e5",
+  "legacy_markdown": "---\ntheory_id: social-ecological-systems\nname: 社会生态系统\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 社会生态系统\n\n模块：跨域治理与公共资源。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Elinor Ostrom（2009）A General Framework for Analyzing Sustainability of Social-Ecological Systems](https://citeseerx.ist.psu.edu/document?doi=41cfd3d8a8f567544330b6d5d736032040b9ca87&repid=rep1&type=pdf)。读取范围：大学文献服务保存的原论文，摘要和框架引入；原刊DOI 10.1126/science.1172133。\n\n## 基础命题\n\n资源、使用者和治理体系等子系统的互动，有助于理解可持续性与自组织条件。\n\n## 概念与分析层级\n\n分析单位：资源系统、使用者与治理体系。核心概念：资源、用户、规则、互动、反馈。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限真实资源系统，如具体流域或公共自然资源；无生态资源的数字政务题不强套。\n- 待检验机制：资源与群体特征及治理规则→使用互动→资源状态和反馈。\n- 可观察材料与方法：资源变化、使用行为、规则与跨界关系；社会及自然数据需尺度对应。\n- 决策落点：调整一个使用、监测或协商规则，并检查生态和分配后果。\n- 边界与竞争解释：框架不支持统一万能处方；不能把制度变量相关性直接解释成生态改善原因。\n"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "resilience",
+  "version": 1,
+  "name_zh": "系统韧性",
+  "name_en": "英文正式名称未在旧卡单列（resilience）",
+  "aliases": [
+    "resilience"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "韧性与稳定性并非同一概念；系统持续承受扰动的能力不等于快速回到单一均衡。",
+  "analysis_level": "分析单位：受明确冲击的系统及关键功能。核心概念：扰动、持续性、恢复、稳定性。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "公共管理应用须自行界定具体系统、冲击和关键功能，不能照搬生态指标。",
+  "applicable": "公共管理应用须自行界定具体系统、冲击和关键功能，不能照搬生态指标。",
+  "public_management_conditions": "公共管理应用须自行界定具体系统、冲击和关键功能，不能照搬生态指标。",
+  "inapplicable": "生态来源不直接证明治理处方；快速恢复也可能恢复不公平安排，需说明价值标准。",
+  "competing_explanations": "生态来源不直接证明治理处方；快速恢复也可能恢复不公平安排，需说明价值标准。",
+  "author_claims": "韧性与稳定性并非同一概念；系统持续承受扰动的能力不等于快速回到单一均衡。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：公共管理应用须自行界定具体系统、冲击和关键功能，不能照搬生态指标。\n- 待检验机制：冗余、替代及连接安排→扰动吸收和恢复→关键功能维持。\n- 可观察材料与方法：停运、恢复、替代通道及服务覆盖；明确基线、时间窗和冲击强度。\n- 决策落点：选择冗余、备援或恢复次序，比较平时成本与中断损失。\n- 边界与竞争解释：生态来源不直接证明治理处方；快速恢复也可能恢复不公平安排，需说明价值标准。",
+  "sources": [
+    {
+      "title": "C. S. Holling（1973）Resilience and Stability of Ecological Systems",
+      "url": "https://pure.iiasa.ac.at/id/eprint/26/1/RP-73-003.pdf",
+      "access_level": "partial",
+      "read_locator": "研究机构授权原论文，导论与韧性/稳定性区分。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/resilience.md",
+  "legacy_sha256": "46e05dd22b70eeea49cb25aa3637ba1ec1d0e6e7638ae2ddf880e2ea3f0fad0e",
+  "legacy_markdown": "---\ntheory_id: resilience\nname: 系统韧性\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 系统韧性\n\n模块：风险、应急与韧性。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[C. S. Holling（1973）Resilience and Stability of Ecological Systems](https://pure.iiasa.ac.at/id/eprint/26/1/RP-73-003.pdf)。读取范围：研究机构授权原论文，导论与韧性/稳定性区分。\n\n## 基础命题\n\n韧性与稳定性并非同一概念；系统持续承受扰动的能力不等于快速回到单一均衡。\n\n## 概念与分析层级\n\n分析单位：受明确冲击的系统及关键功能。核心概念：扰动、持续性、恢复、稳定性。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：公共管理应用须自行界定具体系统、冲击和关键功能，不能照搬生态指标。\n- 待检验机制：冗余、替代及连接安排→扰动吸收和恢复→关键功能维持。\n- 可观察材料与方法：停运、恢复、替代通道及服务覆盖；明确基线、时间窗和冲击强度。\n- 决策落点：选择冗余、备援或恢复次序，比较平时成本与中断损失。\n- 边界与竞争解释：生态来源不直接证明治理处方；快速恢复也可能恢复不公平安排，需说明价值标准。\n"
+}

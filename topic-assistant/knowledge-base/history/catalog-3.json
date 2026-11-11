@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "generation": 3,
+  "entries": {
+    "accountability": {
+      "path": "disciplines/公共管理/entries/accountability/v1.json",
+      "version": 1,
+      "sha256": "d59cbe0607a6ceeff90333ff6f6667b6689098c6d2c50748bf73ddeccf9a9af9"
+    },
+    "adaptive-governance": {
+      "path": "disciplines/公共管理/entries/adaptive-governance/v1.json",
+      "version": 1,
+      "sha256": "e9b1f16eba632d941e09516408a39ba9dff6cfb9e830b04f6f22b61e605a8a4b"
+    }
+  },
+  "disciplines": {
+    "公共管理": {
+      "path": "disciplines/公共管理/profiles/v1.json",
+      "version": 1,
+      "sha256": "a738f06c85a39a62ede1143ad0817d19894370830824da612aa471ebbb50d74b"
+    }
+  },
+  "aliases": {
+    "公共管理": "公共管理",
+    "公共行政": "公共管理",
+    "行政管理": "公共管理",
+    "public administration": "公共管理",
+    "public management": "公共管理",
+    "mpa": "公共管理"
+  },
+  "legacy_ids": {},
+  "refresh": {},
+  "updated_at": "2026-11-11T22:41:06.141788+08:00",
+  "change_reason": "publish adaptive-governance: 无损迁移 2.11.3；不代表重新核验或学科适配已获证实。"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "public-service-motivation",
+  "version": 1,
+  "name_zh": "公共服务动机",
+  "name_en": "英文正式名称未在旧卡单列（public-service-motivation）",
+  "aliases": [
+    "public-service-motivation"
+  ],
+  "kind": "theory",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "公共服务相关动机为理解公共雇员行为提供了不同于单纯物质激励的视角。",
+  "analysis_level": "分析单位：公共雇员及其岗位/组织情境。核心概念：服务动机、公共使命、支持、行为。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "具体岗位和服务任务；量表须核对中文适配，不自造项目冒充成熟工具。",
+  "applicable": "具体岗位和服务任务；量表须核对中文适配，不自造项目冒充成熟工具。",
+  "public_management_conditions": "具体岗位和服务任务；量表须核对中文适配，不自造项目冒充成熟工具。",
+  "inapplicable": "高动机不保证高绩效；能力、机会和资源不足可能压制表现。",
+  "competing_explanations": "高动机不保证高绩效；能力、机会和资源不足可能压制表现。",
+  "author_claims": "公共服务相关动机为理解公共雇员行为提供了不同于单纯物质激励的视角。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：具体岗位和服务任务；量表须核对中文适配，不自造项目冒充成熟工具。\n- 待检验机制：工作意义与组织支持→服务动机及行为→具体服务结果。\n- 可观察材料与方法：岗位安排、行为记录与经过适配的访谈/问卷；区分动机自述和实际行为。\n- 决策落点：改善任务意义、支持或激励匹配，不能用使命话语要求无偿加班。\n- 边界与竞争解释：高动机不保证高绩效；能力、机会和资源不足可能压制表现。",
+  "sources": [
+    {
+      "title": "James L. Perry（2020）Managing Organizations to Sustain Passion for Public Service；承接 Perry、Wise（1990）",
+      "url": "https://www.cambridge.org/core/books/managing-organizations-to-sustain-passion-for-public-service/003F29ABED693543A3AF7A70796F98D6",
+      "access_level": "metadata",
+      "read_locator": "原出版社作者专著书介及作者机构公开介绍；非整书通读。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "metadata-only",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/public-service-motivation.md",
+  "legacy_sha256": "526e9b0f5a218af791f1be9885db04596e70b8a32d084fb9088984743ce5e9d7",
+  "legacy_markdown": "---\ntheory_id: public-service-motivation\nname: 公共服务动机\nkind: theory\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 公共服务动机\n\n模块：执行人员与服务体验。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[James L. Perry（2020）Managing Organizations to Sustain Passion for Public Service；承接 Perry、Wise（1990）](https://www.cambridge.org/core/books/managing-organizations-to-sustain-passion-for-public-service/003F29ABED693543A3AF7A70796F98D6)。读取范围：原出版社作者专著书介及作者机构公开介绍；非整书通读。\n\n## 基础命题\n\n公共服务相关动机为理解公共雇员行为提供了不同于单纯物质激励的视角。\n\n## 概念与分析层级\n\n分析单位：公共雇员及其岗位/组织情境。核心概念：服务动机、公共使命、支持、行为。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：具体岗位和服务任务；量表须核对中文适配，不自造项目冒充成熟工具。\n- 待检验机制：工作意义与组织支持→服务动机及行为→具体服务结果。\n- 可观察材料与方法：岗位安排、行为记录与经过适配的访谈/问卷；区分动机自述和实际行为。\n- 决策落点：改善任务意义、支持或激励匹配，不能用使命话语要求无偿加班。\n- 边界与竞争解释：高动机不保证高绩效；能力、机会和资源不足可能压制表现。\n"
+}

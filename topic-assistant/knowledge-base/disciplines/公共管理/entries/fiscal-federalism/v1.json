@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "fiscal-federalism",
+  "version": 1,
+  "name_zh": "财政分权",
+  "name_en": "英文正式名称未在旧卡单列（fiscal-federalism）",
+  "aliases": [
+    "fiscal-federalism"
+  ],
+  "kind": "theory",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "研究公共职能与财政工具在不同政府层级间的配置及其后果。",
+  "analysis_level": "分析单位：政府层级间的公共职能与财政配置。核心概念：事权、财权、外部性、转移支付。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "中国情境使用财政分权分析，不能把单一制国家直接描述成联邦制。",
+  "applicable": "中国情境使用财政分权分析，不能把单一制国家直接描述成联邦制。",
+  "public_management_conditions": "中国情境使用财政分权分析，不能把单一制国家直接描述成联邦制。",
+  "inapplicable": "分权不必然提高效率；规模经济、再分配与外溢可能要求集中安排。",
+  "competing_explanations": "分权不必然提高效率；规模经济、再分配与外溢可能要求集中安排。",
+  "author_claims": "研究公共职能与财政工具在不同政府层级间的配置及其后果。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：中国情境使用财政分权分析，不能把单一制国家直接描述成联邦制。\n- 待检验机制：事权财权配置与外部性→地方供给激励→服务差异。\n- 可观察材料与方法：预算、转移支付、服务职责与跨界受益资料；控制地区财力和人口需求。\n- 决策落点：选择调整分担规则、转移支付或跨域补偿；说明中央地方约束。\n- 边界与竞争解释：分权不必然提高效率；规模经济、再分配与外溢可能要求集中安排。",
+  "sources": [
+    {
+      "title": "Wallace E. Oates（1999）A Survey of Fiscal Federalism",
+      "url": "https://www.aeaweb.org/articles?id=10.1257/jel.37.3.1120",
+      "access_level": "abstract",
+      "read_locator": "AEA 原刊摘要。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/fiscal-federalism.md",
+  "legacy_sha256": "542a28790989c9b6f65ea107180de34e308b799c83f4c5610d521d06e9b0fb7b",
+  "legacy_markdown": "---\ntheory_id: fiscal-federalism\nname: 财政分权\nkind: theory\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 财政分权\n\n模块：财政与资源。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Wallace E. Oates（1999）A Survey of Fiscal Federalism](https://www.aeaweb.org/articles?id=10.1257/jel.37.3.1120)。读取范围：AEA 原刊摘要。\n\n## 基础命题\n\n研究公共职能与财政工具在不同政府层级间的配置及其后果。\n\n## 概念与分析层级\n\n分析单位：政府层级间的公共职能与财政配置。核心概念：事权、财权、外部性、转移支付。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：中国情境使用财政分权分析，不能把单一制国家直接描述成联邦制。\n- 待检验机制：事权财权配置与外部性→地方供给激励→服务差异。\n- 可观察材料与方法：预算、转移支付、服务职责与跨界受益资料；控制地区财力和人口需求。\n- 决策落点：选择调整分担规则、转移支付或跨域补偿；说明中央地方约束。\n- 边界与竞争解释：分权不必然提高效率；规模经济、再分配与外溢可能要求集中安排。\n"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "institutional-decoupling",
+  "version": 1,
+  "name_zh": "组织制度化与脱耦",
+  "name_en": "英文正式名称未在旧卡单列（institutional-decoupling）",
+  "aliases": [
+    "institutional-decoupling"
+  ],
+  "kind": "theory",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "组织采纳被认可的正式结构可能获得合法性，而正式结构与日常活动可能分离。",
+  "analysis_level": "分析单位：正式组织结构与实际活动的关系。核心概念：合法性、制度规则、脱耦。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "研究制度已设立但执行方式不一致的具体组织；中国情境核实考核与合法性来源。",
+  "applicable": "研究制度已设立但执行方式不一致的具体组织；中国情境核实考核与合法性来源。",
+  "public_management_conditions": "研究制度已设立但执行方式不一致的具体组织；中国情境核实考核与合法性来源。",
+  "inapplicable": "制度未落实不必然是象征性采纳；技能、资源和实施时间不足都是竞争解释。",
+  "competing_explanations": "制度未落实不必然是象征性采纳；技能、资源和实施时间不足都是竞争解释。",
+  "author_claims": "组织采纳被认可的正式结构可能获得合法性，而正式结构与日常活动可能分离。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：研究制度已设立但执行方式不一致的具体组织；中国情境核实考核与合法性来源。\n- 待检验机制：外部认可要求→象征性采纳→正式与实际安排分离。\n- 可观察材料与方法：制度文本、实际流程、检查和使用记录互证；比较有无实际运作差异。\n- 决策落点：调整验收与日常业务的连接，避免新增只供展示的制度。\n- 边界与竞争解释：制度未落实不必然是象征性采纳；技能、资源和实施时间不足都是竞争解释。",
+  "sources": [
+    {
+      "title": "Meyer、Rowan（1977）Institutionalized Organizations: Formal Structure as Myth and Ceremony",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/226550",
+      "access_level": "abstract",
+      "read_locator": "原刊摘要。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/institutional-decoupling.md",
+  "legacy_sha256": "4b302666b5976b30142c60b6d15e71c373fb5c190204beffc2e667929a432147",
+  "legacy_markdown": "---\ntheory_id: institutional-decoupling\nname: 组织制度化与脱耦\nkind: theory\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 组织制度化与脱耦\n\n模块：组织与制度。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Meyer、Rowan（1977）Institutionalized Organizations: Formal Structure as Myth and Ceremony](https://www.journals.uchicago.edu/doi/10.1086/226550)。读取范围：原刊摘要。\n\n## 基础命题\n\n组织采纳被认可的正式结构可能获得合法性，而正式结构与日常活动可能分离。\n\n## 概念与分析层级\n\n分析单位：正式组织结构与实际活动的关系。核心概念：合法性、制度规则、脱耦。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：研究制度已设立但执行方式不一致的具体组织；中国情境核实考核与合法性来源。\n- 待检验机制：外部认可要求→象征性采纳→正式与实际安排分离。\n- 可观察材料与方法：制度文本、实际流程、检查和使用记录互证；比较有无实际运作差异。\n- 决策落点：调整验收与日常业务的连接，避免新增只供展示的制度。\n- 边界与竞争解释：制度未落实不必然是象征性采纳；技能、资源和实施时间不足都是竞争解释。\n"
+}

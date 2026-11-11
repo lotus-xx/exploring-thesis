@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "accountability",
+  "version": 1,
+  "name_zh": "公共问责关系",
+  "name_en": "英文正式名称未在旧卡单列（accountability）",
+  "aliases": [
+    "accountability"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "问责须具体识别行为者向谁说明、接受何种评价以及可能后果。",
+  "analysis_level": "分析单位：行为者与问责论坛的关系。核心概念：说明、质询、评价、后果。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定一种决策或系统故障的责任链；区分公开透明、责任承担与完整问责程序。",
+  "applicable": "限定一种决策或系统故障的责任链；区分公开透明、责任承担与完整问责程序。",
+  "public_management_conditions": "限定一种决策或系统故障的责任链；区分公开透明、责任承担与完整问责程序。",
+  "inapplicable": "不能用问责次数判断质量；过度追责可能导致避责，应检查学习与防御性行为。",
+  "competing_explanations": "不能用问责次数判断质量；过度追责可能导致避责，应检查学习与防御性行为。",
+  "author_claims": "问责须具体识别行为者向谁说明、接受何种评价以及可能后果。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一种决策或系统故障的责任链；区分公开透明、责任承担与完整问责程序。\n- 待检验机制：解释义务、质询和评价→纠错及约束→责任落实。\n- 可观察材料与方法：授权、解释记录、复核、处理及整改追踪；比较书面制度和实际启动条件。\n- 决策落点：补齐具体责任归属、异议复核或纠错环节，明确有权作出决定者。\n- 边界与竞争解释：不能用问责次数判断质量；过度追责可能导致避责，应检查学习与防御性行为。",
+  "sources": [
+    {
+      "title": "Mark Bovens（2007）Analysing and Assessing Accountability: A Conceptual Framework",
+      "url": "https://doi.org/10.1111/j.1468-0386.2007.00378.x",
+      "access_level": "abstract",
+      "read_locator": "原刊摘要与问责关系界定。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/accountability.md",
+  "legacy_sha256": "15f7fb44eed8cc3bddbddfd0d4b725e104ddb6589a0f36926d74ce22366725d8",
+  "legacy_markdown": "---\ntheory_id: accountability\nname: 公共问责关系\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 公共问责关系\n\n模块：价值、绩效与责任。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Mark Bovens（2007）Analysing and Assessing Accountability: A Conceptual Framework](https://doi.org/10.1111/j.1468-0386.2007.00378.x)。读取范围：原刊摘要与问责关系界定。\n\n## 基础命题\n\n问责须具体识别行为者向谁说明、接受何种评价以及可能后果。\n\n## 概念与分析层级\n\n分析单位：行为者与问责论坛的关系。核心概念：说明、质询、评价、后果。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定一种决策或系统故障的责任链；区分公开透明、责任承担与完整问责程序。\n- 待检验机制：解释义务、质询和评价→纠错及约束→责任落实。\n- 可观察材料与方法：授权、解释记录、复核、处理及整改追踪；比较书面制度和实际启动条件。\n- 决策落点：补齐具体责任归属、异议复核或纠错环节，明确有权作出决定者。\n- 边界与竞争解释：不能用问责次数判断质量；过度追责可能导致避责，应检查学习与防御性行为。\n"
+}

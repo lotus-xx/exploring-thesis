@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "project-system",
+  "version": 1,
+  "name_zh": "项目制",
+  "name_en": "英文正式名称未在旧卡单列（project-system）",
+  "aliases": [
+    "project-system"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "china",
+  "concepts_and_propositions": "专项项目的资源配置与控制权安排可改变政府间关系及基层行动。",
+  "analysis_level": "分析单位：一个项目周期及政府间资源关系。核心概念：专项资金、申报、验收、控制权。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "聚焦一种项目的申报、配套、验收或维护环节；区分渠敬东、周飞舟等不同研究视角。",
+  "applicable": "聚焦一种项目的申报、配套、验收或维护环节；区分渠敬东、周飞舟等不同研究视角。",
+  "public_management_conditions": "聚焦一种项目的申报、配套、验收或维护环节；区分渠敬东、周飞舟等不同研究视角。",
+  "inapplicable": "不是所有政府项目都构成项目制解释；与财政约束、采购能力和需求变动竞争。",
+  "competing_explanations": "不是所有政府项目都构成项目制解释；与财政约束、采购能力和需求变动竞争。",
+  "author_claims": "专项项目的资源配置与控制权安排可改变政府间关系及基层行动。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：聚焦一种项目的申报、配套、验收或维护环节；区分渠敬东、周飞舟等不同研究视角。\n- 待检验机制：专项规则与资源竞争→申报和执行取舍→持续供给。\n- 可观察材料与方法：项目通知、预算决算、验收材料、运维记录；追踪项目周期，必要时对照非项目供给。\n- 决策落点：判断某项资金规则或验收条件是否应调整，兼顾后续维护成本。\n- 边界与竞争解释：不是所有政府项目都构成项目制解释；与财政约束、采购能力和需求变动竞争。",
+  "sources": [
+    {
+      "title": "周雪光（2015）《项目制：一个“控制权”理论视角》",
+      "url": "https://web.stanford.edu/~xgzhou/zhou_15_project.pdf",
+      "access_level": "partial",
+      "read_locator": "作者原论文 PDF，题名、摘要与控制权分析。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/project-system.md",
+  "legacy_sha256": "1bd65dfeb1ea1c42cbbcce06885fccc67032faa06ae73787f7d8540c06514342",
+  "legacy_markdown": "---\ntheory_id: project-system\nname: 项目制\nkind: framework\norigin: china\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 项目制\n\n模块：财政与资源。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[周雪光（2015）《项目制：一个“控制权”理论视角》](https://web.stanford.edu/~xgzhou/zhou_15_project.pdf)。读取范围：作者原论文 PDF，题名、摘要与控制权分析。\n\n## 基础命题\n\n专项项目的资源配置与控制权安排可改变政府间关系及基层行动。\n\n## 概念与分析层级\n\n分析单位：一个项目周期及政府间资源关系。核心概念：专项资金、申报、验收、控制权。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：聚焦一种项目的申报、配套、验收或维护环节；区分渠敬东、周飞舟等不同研究视角。\n- 待检验机制：专项规则与资源竞争→申报和执行取舍→持续供给。\n- 可观察材料与方法：项目通知、预算决算、验收材料、运维记录；追踪项目周期，必要时对照非项目供给。\n- 决策落点：判断某项资金规则或验收条件是否应调整，兼顾后续维护成本。\n- 边界与竞争解释：不是所有政府项目都构成项目制解释；与财政约束、采购能力和需求变动竞争。\n"
+}

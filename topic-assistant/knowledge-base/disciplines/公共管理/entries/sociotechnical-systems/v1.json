@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "sociotechnical-systems",
+  "version": 1,
+  "name_zh": "社会技术系统",
+  "name_en": "英文正式名称未在旧卡单列（sociotechnical-systems）",
+  "aliases": [
+    "sociotechnical-systems"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "工作组织与技术过程相互关联，设计技术安排时需同时考虑社会组织。",
+  "analysis_level": "分析单位：社会安排与技术共同构成的工作系统。核心概念：任务、岗位、协作、技术过程。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "限定政府某项工作系统，包括岗位、协作和工具；从工业组织迁移需说明法定职责约束。",
+  "applicable": "限定政府某项工作系统，包括岗位、协作和工具；从工业组织迁移需说明法定职责约束。",
+  "public_management_conditions": "限定政府某项工作系统，包括岗位、协作和工具；从工业组织迁移需说明法定职责约束。",
+  "inapplicable": "不能泛称人与技术互动即完成分析；资源、技能和制度安排需可观察。",
+  "competing_explanations": "不能泛称人与技术互动即完成分析；资源、技能和制度安排需可观察。",
+  "author_claims": "工作组织与技术过程相互关联，设计技术安排时需同时考虑社会组织。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定政府某项工作系统，包括岗位、协作和工具；从工业组织迁移需说明法定职责约束。\n- 待检验机制：技术任务配置与社会协作安排匹配→工作衔接→质量和负荷。\n- 可观察材料与方法：流程观察、岗位分工、系统功能及异常处理；小范围比较或可逆试点。\n- 决策落点：明确人机分工、交接和异常接管中的一个改进点，检查新负担是否转移。\n- 边界与竞争解释：不能泛称人与技术互动即完成分析；资源、技能和制度安排需可观察。",
+  "sources": [
+    {
+      "title": "A. K. Rice（1958原著，Routledge再版）Productivity and Social Organization；承接 Trist、Bamforth",
+      "url": "https://www.routledge.com/Productivity-and-Social-Organization-The-Ahmedabad-experiment-technic/Rice/p/book/9780415264693",
+      "access_level": "partial",
+      "read_locator": "原出版社目录与预览导论，技术变化和社会组织互动说明；未声称1951论文全文可读。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/sociotechnical-systems.md",
+  "legacy_sha256": "772382a4f2045c7026cde12503d5ec8248c8a229cdd1cd3ae97b96583c7f1cad",
+  "legacy_markdown": "---\ntheory_id: sociotechnical-systems\nname: 社会技术系统\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 社会技术系统\n\n模块：数字治理与组织技术。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[A. K. Rice（1958原著，Routledge再版）Productivity and Social Organization；承接 Trist、Bamforth](https://www.routledge.com/Productivity-and-Social-Organization-The-Ahmedabad-experiment-technic/Rice/p/book/9780415264693)。读取范围：原出版社目录与预览导论，技术变化和社会组织互动说明；未声称1951论文全文可读。\n\n## 基础命题\n\n工作组织与技术过程相互关联，设计技术安排时需同时考虑社会组织。\n\n## 概念与分析层级\n\n分析单位：社会安排与技术共同构成的工作系统。核心概念：任务、岗位、协作、技术过程。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：限定政府某项工作系统，包括岗位、协作和工具；从工业组织迁移需说明法定职责约束。\n- 待检验机制：技术任务配置与社会协作安排匹配→工作衔接→质量和负荷。\n- 可观察材料与方法：流程观察、岗位分工、系统功能及异常处理；小范围比较或可逆试点。\n- 决策落点：明确人机分工、交接和异常接管中的一个改进点，检查新负担是否转移。\n- 边界与竞争解释：不能泛称人与技术互动即完成分析；资源、技能和制度安排需可观察。\n"
+}

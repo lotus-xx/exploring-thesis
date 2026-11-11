@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "generation": 1,
+  "entries": {},
+  "disciplines": {
+    "公共管理": {
+      "path": "disciplines/公共管理/profiles/v1.json",
+      "version": 1,
+      "sha256": "a738f06c85a39a62ede1143ad0817d19894370830824da612aa471ebbb50d74b"
+    }
+  },
+  "aliases": {
+    "公共管理": "公共管理",
+    "公共行政": "公共管理",
+    "行政管理": "公共管理",
+    "public administration": "公共管理",
+    "public management": "公共管理",
+    "mpa": "公共管理"
+  },
+  "legacy_ids": {},
+  "refresh": {},
+  "updated_at": "2026-11-11T22:41:06.135653+08:00",
+  "change_reason": "profile 公共管理"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "bureaucracy",
+  "version": 1,
+  "name_zh": "科层制与合法权威",
+  "name_en": "英文正式名称未在旧卡单列（bureaucracy）",
+  "aliases": [
+    "bureaucracy"
+  ],
+  "kind": "framework",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "科层组织应作为具有具体制度与发展条件的组织形式分析，不能只作低效标签。",
+  "analysis_level": "分析单位：正式行政组织中的岗位与程序。核心概念：合法职权、规则、分工、层级。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "中国政府研究须分清法定职权、组织层级与实际惯例，选择一项具体程序。",
+  "applicable": "中国政府研究须分清法定职权、组织层级与实际惯例，选择一项具体程序。",
+  "public_management_conditions": "中国政府研究须分清法定职权、组织层级与实际惯例，选择一项具体程序。",
+  "inapplicable": "上列机制是研究设计建议；不能以层级多直接证明低效，专业分工也可能提高质量。",
+  "competing_explanations": "上列机制是研究设计建议；不能以层级多直接证明低效，专业分工也可能提高质量。",
+  "author_claims": "科层组织应作为具有具体制度与发展条件的组织形式分析，不能只作低效标签。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：中国政府研究须分清法定职权、组织层级与实际惯例，选择一项具体程序。\n- 待检验机制：规则、岗位分工与层级协调→可预期性或程序成本→业务结果。\n- 可观察材料与方法：职责规定、审批链、文书和实际办理轨迹；辨别正式制度与现实操作差距。\n- 决策落点：判断应精简哪个重复环节，同时保留合法程序、可追责性和一致性。\n- 边界与竞争解释：上列机制是研究设计建议；不能以层级多直接证明低效，专业分工也可能提高质量。",
+  "sources": [
+    {
+      "title": "Max Weber，The Development of Bureaucracy and its Relation to Law（Cambridge 译选）",
+      "url": "https://www.cambridge.org/highereducation/books/max-weber-selections-in-translation/786A193599EDE9EBA91FCC1DFDA5710E/the-development-of-bureaucracy-and-its-relation-to-law/1BC169DC1B17D63436C6C45D0192E8A2",
+      "access_level": "partial",
+      "read_locator": "出版社章节节选；不声称读完《经济与社会》。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/bureaucracy.md",
+  "legacy_sha256": "8e88b2ac6df5a2f3066424651ee63a6cc53ab2e3a186a2bf978c824d4d0c7ff0",
+  "legacy_markdown": "---\ntheory_id: bureaucracy\nname: 科层制与合法权威\nkind: framework\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 科层制与合法权威\n\n模块：组织与制度。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Max Weber，The Development of Bureaucracy and its Relation to Law（Cambridge 译选）](https://www.cambridge.org/highereducation/books/max-weber-selections-in-translation/786A193599EDE9EBA91FCC1DFDA5710E/the-development-of-bureaucracy-and-its-relation-to-law/1BC169DC1B17D63436C6C45D0192E8A2)。读取范围：出版社章节节选；不声称读完《经济与社会》。\n\n## 基础命题\n\n科层组织应作为具有具体制度与发展条件的组织形式分析，不能只作低效标签。\n\n## 概念与分析层级\n\n分析单位：正式行政组织中的岗位与程序。核心概念：合法职权、规则、分工、层级。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：中国政府研究须分清法定职权、组织层级与实际惯例，选择一项具体程序。\n- 待检验机制：规则、岗位分工与层级协调→可预期性或程序成本→业务结果。\n- 可观察材料与方法：职责规定、审批链、文书和实际办理轨迹；辨别正式制度与现实操作差距。\n- 决策落点：判断应精简哪个重复环节，同时保留合法程序、可追责性和一致性。\n- 边界与竞争解释：上列机制是研究设计建议；不能以层级多直接证明低效，专业分工也可能提高质量。\n"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "principal-agent",
+  "version": 1,
+  "name_zh": "委托代理",
+  "name_en": "英文正式名称未在旧卡单列（principal-agent）",
+  "aliases": [
+    "principal-agent"
+  ],
+  "kind": "theory",
+  "disciplines": [
+    "公共管理"
+  ],
+  "origin": "international",
+  "concepts_and_propositions": "信息、结果不确定性、激励与风险承担是理解委托合作的重要维度。",
+  "analysis_level": "分析单位：具体委托关系及任务。核心概念：信息差异、目标差异、激励、风险。层级以该单位为准，不能把个体自述直接推成组织或地区效应。",
+  "conditions": "具体识别谁委托谁、任务是什么，政府多重委托与公共目标不能简化为私人利润。",
+  "applicable": "具体识别谁委托谁、任务是什么，政府多重委托与公共目标不能简化为私人利润。",
+  "public_management_conditions": "具体识别谁委托谁、任务是什么，政府多重委托与公共目标不能简化为私人利润。",
+  "inapplicable": "不预设代理人必然自利或失职；专业规范、共同目标和信任可能解释合作。",
+  "competing_explanations": "不预设代理人必然自利或失职；专业规范、共同目标和信任可能解释合作。",
+  "author_claims": "信息、结果不确定性、激励与风险承担是理解委托合作的重要维度。",
+  "assistant_guidance": "以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：具体识别谁委托谁、任务是什么，政府多重委托与公共目标不能简化为私人利润。\n- 待检验机制：信息和目标差异→监督及激励选择→履责行为。\n- 可观察材料与方法：合同/授权、报告、绩效与监督成本；比较行为控制和结果控制的适用条件。\n- 决策落点：调整某项报告、激励或验收安排，避免增加无效监督负担。\n- 边界与竞争解释：不预设代理人必然自利或失职；专业规范、共同目标和信任可能解释合作。",
+  "sources": [
+    {
+      "title": "Kathleen M. Eisenhardt（1989）Agency Theory: An Assessment and Review",
+      "url": "https://journals.aom.org/doi/abs/10.5465/amr.1989.4279003",
+      "access_level": "abstract",
+      "read_locator": "原刊可检索摘要。",
+      "support": "仅支持原卡基础命题；精确原始范围见 legacy_markdown。",
+      "support_level": "limited",
+      "verified_on": "2026-10-30",
+      "published_at": null,
+      "accessed_at": null,
+      "migration_note": "沿用历史核验日期，迁移未重新访问。"
+    }
+  ],
+  "maturity": "沿用历史卡；成熟程度未另行评定，不因迁移提升。",
+  "verification_status": "verified",
+  "verified_on": "2026-10-30",
+  "change_basis": "无损迁移 2.11.3；不代表重新核验或学科适配已获证实。",
+  "review": {
+    "status": "reviewed",
+    "reviewer": "local-lossless-migration",
+    "source_check": "完整保留历史来源、日期与原始读取位置，未联网。",
+    "dedup_check": "旧稳定 ID 一对一迁移。",
+    "conflicts": "历史争议和边界原样保留。"
+  },
+  "private_material": false,
+  "legacy_path": "references/theories/principal-agent.md",
+  "legacy_sha256": "275a5042c40b239a479e9d74da7b22ce1090f102cbde7828a43d97be6cd47648",
+  "legacy_markdown": "---\ntheory_id: principal-agent\nname: 委托代理\nkind: theory\norigin: international\nstatus: verified\nverified_on: 2026-10-30\n---\n\n# 委托代理\n\n模块：价值、绩效与责任。本卡“verified”仅表示下述基础命题与所列实际读取内容相符，不表示原著全文已读或本轮选题得到验证。\n\n## 核对依据\n\n[Kathleen M. Eisenhardt（1989）Agency Theory: An Assessment and Review](https://journals.aom.org/doi/abs/10.5465/amr.1989.4279003)。读取范围：原刊可检索摘要。\n\n## 基础命题\n\n信息、结果不确定性、激励与风险承担是理解委托合作的重要维度。\n\n## 概念与分析层级\n\n分析单位：具体委托关系及任务。核心概念：信息差异、目标差异、激励、风险。层级以该单位为准，不能把个体自述直接推成组织或地区效应。\n\n## 研究设计建议\n\n以下为本库的应用建议，须用本次材料检验，不是原文已证实的中国案例结论。\n\n- 适用与中国情境：具体识别谁委托谁、任务是什么，政府多重委托与公共目标不能简化为私人利润。\n- 待检验机制：信息和目标差异→监督及激励选择→履责行为。\n- 可观察材料与方法：合同/授权、报告、绩效与监督成本；比较行为控制和结果控制的适用条件。\n- 决策落点：调整某项报告、激励或验收安排，避免增加无效监督负担。\n- 边界与竞争解释：不预设代理人必然自利或失职；专业规范、共同目标和信任可能解释合作。\n"
+}
